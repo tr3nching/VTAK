@@ -165,21 +165,13 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMO!" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Local",Cinemo! Global
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa8aebe 35ccc4541b7ce6292efcb1bfb:aab1 df109d22fc5d7e3ec121ddf24e5f
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jeepney TV" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/0b/Jeepney_TV_3D_Logo_2015.png/revision/latest?cb=20230326142526" group-title="Local",Jeepney TV
 http://79.127.235.177:1234/stream/TRICKFLIX/jeepneytv/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
 #EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema One" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="Local",Cinema One Global
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
+https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
 
 #EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema One" tvg-logo="https://i.ibb.co/9scFJ3s/Cinema-One-Logo-2020.png" group-title="Local",Cinema One Philippines
 https://ln.run/Zc85c
