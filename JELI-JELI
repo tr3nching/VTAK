@@ -52,7 +52,9 @@ http://hls.studentsdemo.com:8080/memfs/37a75c67-b38c-498b-92cb-f1859e42ee7d.m3u8
 http://79.127.235.177:1234/stream/TRICKFLIX/gmalife/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA Pinoy TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/GMA_Pinoy_TV_(2011).png/revision/latest/scale-to-width-down/250?cb=20230617204705" group-title="Local",GMA Pinoy TV
-http://79.127.235.177:1234/stream/TRICKFLIX/gmapinoy/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
+#KODIPROP:inputstream.adaptive.license_type=Clearkey
+#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA Life TV" tvg-logo="https://images3.wikia.nocookie.net/__cb20120214110427/logopedia/images/6/68/GMA_News_TV.png" group-title="Local",GMA News TV
 http://79.127.235.177:1234/stream/TRICKFLIX/gmanews-1/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
