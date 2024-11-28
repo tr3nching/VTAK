@@ -95,12 +95,12 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NET 25" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="Local",NET 25
 https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Local",TV5 HD
+#EXTINF:-1 tvg-id=".ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Local", TV5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/_hd.mpd
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 #EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us " tvg-logo="https://alltv.ph/wp-content/uploads/2024/06/LOGO-ALLTV-NEW.png" group-title="Local",ALLTV
 http://hls.studentsdemo.com:8080/memfs/f9aa7828-ce2d-4d29-894e-99f6f2ebb03e.m3u8
