@@ -220,14 +220,14 @@ http://apkandweb.ddns.net/6377635294/6663568605/667799
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
-#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Local", HBO Hits HD
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://i.ibb.co/y8XXVs6/2022-06-14-16-26-52-removebg-preview.png" group-title="Local", HBO Hits HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
-#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/640px-HBO_Family_Asia_logo.svg.png&w=640&q=50" group-title="Local",HBO Family HD
+#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://i.ibb.co/zh91vRf/hbo-family-hd-asia-logo-png-by-stephen0503-dgfhsei-pre.png" group-title="Local",HBO Family HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -529,8 +529,8 @@ https://bit.ly/3YK6l7a
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kVVax44.png" channel-number="1" group-title="Local", ABC Australia
 https://bit.ly/3YHKTzR
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" MONDE Asie" tvg-logo="https://klean.nl/wp-content/uploads/Logo__Monde_-_2021.svg_.png" group-title="Local", Monde
-https://ott.monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="Local",TV5 MONDE ASIE
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/61MSiq9.png" channel-number="1" group-title="Local", France 24
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -625,7 +625,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZQOYNV+jPK7TAcU+cVI7uQ", "kid":"TcVubuYkS7aTBl7bfbywCQ" } ], "type":"temporary" }
 https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t4HF5va.png" group-title="Local", HBO Signature HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad966263-c22c-4b27-826f-510ce03110f7/dgngoiz-8b79cdc2-abcb-4452-8289-987a0217dad7.png/v1/fill/w_559,h_257/hbo_signature_hd_asia_logo_png_by_stephen0503_dgngoiz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU3IiwicGF0aCI6IlwvZlwvYWQ5NjYyNjMtYzIyYy00YjI3LTgyNmYtNTEwY2UwMzExMGY3XC9kZ25nb2l6LThiNzljZGMyLWFiY2ItNDQ1Mi04Mjg5LTk4N2EwMjE3ZGFkNy5wbmciLCJ3aWR0aCI6Ijw9NTU5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.48a3-rB9Z7iFUyYgcnNkt9xxsTvJceV7BICxAIwj7hg" group-title="Local", HBO Signature HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
