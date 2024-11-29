@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
-https://www.bevy.be/bevyfiles/philippinespremium2.xml"
-2 Corinthians 9:7 KJV
-"Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver."
+https://www.bevy.be/bevyfiles/philippinespremium2.xml" 2 Corinthians 9:7 KJV   "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver."
+
 
 
 
@@ -125,10 +124,8 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Kapamilya_Channel_hd_flat_latest.png/revision/latest?cb=20240502124554" group-title="Local",Kapamilya Channel HD
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd 
+http://79.127.235.177:1234/stream/TRICKFLIX/sonuchannelhd/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" group-title="Local",Kapamilya Online Live
 https://phckapamilya.vizco.workers.dev/stream/channel/master.m3u8
@@ -344,7 +341,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.no76ookie.net/russel/images/8/8d/MPTV_Logo_2023.png/revision/latest/scale-to-width-down/1200?cb=20230822144008" group-title="Local", MPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/8d/MPTV_Logo_2023.png/revision/latest/scale-to-width-down/1200?cb=20230822144008" group-title="Local", MPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -402,11 +399,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="Local", ANC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
 
 #EXTINF: -1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Local", CCTN 47
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
@@ -546,11 +540,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
 #EXTINF:-1 tvg-id="DZMM TELERADYO" tvg-name="TeleRadyo Serbisyo" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e5/TeleRadyo_Serbisyo_3D_Logo_2023.png" group-title="Local",TeleRadyo Serbisyo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/1/1e/INC_TV_White_Logo_July_2022.png" group-title="Local",INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
@@ -1286,39 +1276,6 @@ http://starshare.live:8080/live/Mike1/Mike2/20925.m3u8
 
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="KIDS EXCLUSIVES", Disney Channel HD
 http://starshare.live:8080/live/Mike1/Mike2/19741.m3u8
-
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://iili.io/HPnvuUl.md.png" group-title="KIDS EXCLUSIVES", One Anime 1
-http://bisdaktv.store/jmrk.php?channel=566952
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://iili.io/HPnvEfj.md.png" group-title="KIDS EXCLUSIVES", One Anime 2
-http://bisdaktv.store/jmrk.php?channel=566953
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://iili.io/HPnvizX.md.png" group-title="KIDS EXCLUSIVES", One Anime 3
-http://bisdaktv.store/jmrk.php?channel=566954
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://iili.io/HPn8C7V.md.png" group-title="KIDS EXCLUSIVES", One Anime 4
-http://bisdaktv.store/jmrk.php?channel=566955
-
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://iili.io/HPn8EhX.md.png" group-title="KIDS EXCLUSIVES", One Anime 5
-http://bisdaktv.store/jmrk.php?channel=566956
-
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://iili.io/HPn8Nv2.md.png" group-title="KIDS EXCLUSIVES", One Anime 6
-http://bisdaktv.store/jmrk.php?channel=566957
-
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://iili.io/HPnvEfj.md.png" group-title="KIDS EXCLUSIVES", One Anime 7
-http://bisdaktv.store/jmrk.php?channel=566958
-
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://iili.io/HPnvizX.md.png" group-title="KIDS EXCLUSIVES", One Anime 8
-http://bisdaktv.store/jmrk.php?channel=566959
-
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://iili.io/HPnSDR2.md.png" group-title="KIDS EXCLUSIVES", One Anime 9
-http://bisdaktv.store/jmrk.php?channel=566960
-
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://iili.io/HPnUuUv.md.png" group-title="KIDS EXCLUSIVES", One Anime 10
-http://bisdaktv.store/jmrk.php?channel=566961
-
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://iili.io/HPnUuUv.md.png" group-title="KIDS EXCLUSIVES", One Anime 11
-http://bisdaktv.store/jmrk.php?channel=566962
-
-#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://iili.io/HPnvizX.md.png" group-title="KIDS EXCLUSIVES", One Anime 12
-http://bisdaktv.store/jmrk.php?channel=566963
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: DISNEY XD" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1696933461-.png" group-title="KIDS EXCLUSIVES",FUN PLANET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
