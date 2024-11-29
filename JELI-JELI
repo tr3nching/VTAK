@@ -625,7 +625,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZQOYNV+jPK7TAcU+cVI7uQ", "kid":"TcVubuYkS7aTBl7bfbywCQ" } ], "type":"temporary" }
 https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad966263-c22c-4b27-826f-510ce03110f7/dgngoiz-8b79cdc2-abcb-4452-8289-987a0217dad7.png/v1/fill/w_559,h_257/hbo_signature_hd_asia_logo_png_by_stephen0503_dgngoiz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU3IiwicGF0aCI6IlwvZlwvYWQ5NjYyNjMtYzIyYy00YjI3LTgyNmYtNTEwY2UwMzExMGY3XC9kZ25nb2l6LThiNzljZGMyLWFiY2ItNDQ1Mi04Mjg5LTk4N2EwMjE3ZGFkNy5wbmciLCJ3aWR0aCI6Ijw9NTU5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.48a3-rB9Z7iFUyYgcnNkt9xxsTvJceV7BICxAIwj7hg" group-title="Local", HBO Signature HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GRB34mn/hbo-signature-hd-asia-logo-png-by-stephen0503-dgngoiz-fullview.png" group-title="Local", HBO Signature HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
