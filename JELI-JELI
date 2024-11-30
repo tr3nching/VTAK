@@ -132,14 +132,6 @@ https://phckapamilya.vizco.workers.dev/stream/channel/master.m3u8
 #EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="Local",Kapamilya Channel
 https://ln.run/c03PQ
 
-#EXTINF:-1 tvg-id="SOLARFLIX.ph" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Local",SolarFlix
-http://rambutan.whatbox.ca:1234/stream/restream20/solarflix/master.m3u8?u=cGhjb3JuZXI=&p=011906897aea8319785bf3e3ebbfc4950a207678a7bd6b3d446a9835b510e77b
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Celestial Movies Pinoy" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="RESERVED CHANNELS",Celestial Movies Pinoy
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1977384,RESOLUTION=720x480,FRAME-RATE=29.97,CODECS="avc1.4d401e,mp4a.40.2"
-http://13.250.59.27:1234/stream/ipt...4bcd9f833988241cd28ea2865611b275d116285ba1128
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Local", tvN Movies Pinoy
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -743,6 +735,13 @@ https://exempli.feitantv.workers.dev/@HILAKBOTHorrorStories.m3u8
 ````````RESERVED CHANNELS````````
 
 #EXTINF:-1 group-logo="https://st.depositphotos.com/2274151/3306/i/600/depositphotos_33060717-stock-photo-reserved-red-grunge-stamp.jpg"
+
+#EXTINF:-1 tvg-id="SOLARFLIX.ph" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="RESERVED CHANNELS",SolarFlix
+https://ln.run/12345
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Celestial Movies Pinoy" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="RESERVED CHANNELS",Celestial Movies Pinoy
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1977384,RESOLUTION=720x480,FRAME-RATE=29.97,CODECS="avc1.4d401e,mp4a.40.2"
+http://13.250.59.27:1234/stream/ipt...4bcd9f833988241cd28ea2865611b275d116285ba1128
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://imgur.com/sC3yTot.png" group-title="RESERVED CHANNELS",Hallypop!
 http://admin.ganbaruby23.xyz/stream/new/hallypop/master.m3u8?u=4568185514&p=729c795a2e7aa95f684d5c17e6681649b872158019ffce987a14f1b2c51cfef6
