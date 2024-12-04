@@ -1697,10 +1697,10 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=113867&e
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=339674&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Movie Central",Star Movies HD
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472273&extension=m3u8
+http://119.156.26.155:8000/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/7OjPgvd.png" group-title="Movie Central",Star Movies Select HD
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=21109&extension=m3u8
+http://119.156.26.155:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN TV FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png" group-title="Movie Central",RAKUTEN TV FAMILY
 https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
@@ -1725,10 +1725,6 @@ https://fl1001.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA TV" tvg-logo="https://www.pngplay.com/wp-content/uploads/6/Cinema-Logo-PNG-HD-Quality.png" group-title="Movie Central",CINEMA TV
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNET MOVIES 2" tvg-logo="#EXTINF:-1 tvg-id="mmovies2.za" tvg-name="DSTV: M-Net Movies 2 (FHD)" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MAP.png" group-title="Movie Central",M-Net Movies 2
-https://dvrfl06.tulix.tv/astv/astv-mnetmovies2/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Movie Central",Sony Pix
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472281&extension=m3u8
