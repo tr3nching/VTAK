@@ -1302,6 +1302,11 @@ http://starshare.live:8080/live/Mike1/Mike2/19741.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qmFz6HlcmwsnM9+DiTSBfw", "kid":"EtmlTkWNMZdWMr4XqNrAEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="100.astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Astro_Home_of_Kids.png/revision/latest?cb=20241201142610" group-title="KIDS EXCLUSIVES",Home Of Kids     
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5178/default_primary.mpd
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anime All Day" tvg-logo="https://i.ibb.co/Y78QGb2/USAJ3504502-A-20240520-T214506-SQUARE-removebg-preview.png" group-title="KIDS EXCLUSIVES",Anime All Day
 https://jmp2.uk/sam-USAJ3504502A.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AnimeTv" tvg-logo="https://i.ibb.co/Svh3sWH/color-Logo-PNG.png" group-title="KIDS EXCLUSIVES",AnimeTv
@@ -1726,7 +1731,7 @@ https://fl1001.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Movie Central",Sony Pix
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472281&extension=m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=14505&deviceMac=00:1A:79:A7:53:75
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png" group-title="Movie Central",Sony Movies
 http://apkandweb.ddns.net/6377635294/6663568605/711
@@ -1760,8 +1765,29 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WnD4SsR/newscaster-live-television-huya-tv-illustration-png-favpng-KCCG6p966q0-Srwv-Ec-AXDEbj-TS-removebg-pr.png" group-title="Movie Central", Douyu Movies 
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="GALAXY" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-logo="" group-title="Movie Central",Galaxy HD
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="GALAXYPremium" tvg-logo="https://i.ibb.co/GW54sBm/Galaxy-Premium-1.pngg" group-logo="" group-title="Movie Central",Galaxy Premium HD
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
+
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="IN: Movies Now (4K)" tvg-logo="https://i.ibb.co/0qKmPKd/e0612c9989dba69138bb8026d23dbec1-removebg-preview-1.png" group-title="Movie Central", MNX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
 #EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="IN: Movies Now (4K)" tvg-logo="https://i.ibb.co/FBXKYbz/png-transparent-movies-now-television-channel-high-definition-television-mn-movies-miscellaneous-tel.png" group-title="Movie Central", Movies Now HD
-https://bit.ly/4e4NJDE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN: &FLIX (4K)." tvg-logo="https://imgur.com/3BU6Wsg.png" group-title="Movie Central", &FLIX HD
 http://119.156.26.155:8000/play/a06x/index.m3u8
