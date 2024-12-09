@@ -129,10 +129,6 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Kapamilya_Channel_hd_flat_latest.png/revision/latest?cb=20240502124554" group-title="Local",Kapamilya Channel HD
 http://hls.studentsdemo.com:8080/memfs/61efddfc-efa9-4ff1-bada-3876c903ff10.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" group-title="Local",Kapamilya Online Live
-https://phckapamilya.vizco.workers.dev/stream/channel/master.m3u8
-
 #EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="Local",Kapamilya Channel
 https://ln.run/c03PQ
 
@@ -1309,8 +1305,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94
 
 #EXTINF:-1 tvg-id="620.astro" group-title="KIDS EXCLUSIVES" ch-number="620" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",CBeebies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3mxf6q5faWO0s5LdyLaneA", "kid":"UMaZxETl+A2sr8TJlmfYEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mxf6q5faWO0s5LdyLaneA","kid":"UMaZxETl+A2sr8TJlmfYEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my:443/dash-wv/linear/5093/default_primary.mpd
 
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: CN HD + (4K)" tvg-logo="https://i.ibb.co/mJ6YSSm/cartoon-network-hd-plus-removebg-preview.png" group-title="KIDS EXCLUSIVES",Cartoon Network HD+
 http://starshare.live:8080/live/Mike1/Mike2/19741.m3u8
@@ -1697,8 +1694,22 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:7D:17:D4&stream=45450&ext
 
 #EXTINF:-1 tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="Movie Central",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBD2500012DH" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/EbonyByLionsgate.png" group-logo="" group-title="Movie Central",Ebony by Lionsgate
+https://raw.githubusercontent.com/mystery75/m3u8/main/EBONY.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HerSphereByLionsgate.png" group-logo="" group-title="Movie Central",HerSphere by Lionsgate
+https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
+
+#EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphereByLionsgate.png" group-logo="" group-title="Movie Central",MovieSphere By Lionsgate
+https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
+
+#EXTINF:-1 tvg-id="USBD1200007FE" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/OuterSphereByLionsgate.png" group-logo="" group-title="Movie Central",OuterSphere by Lionsgate
+https://raw.githubusercontent.com/mystery75/m3u8/main/OUTERSPHERE.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-name="My Time Movie Network" tvg-logo="https://i.imgur.com/QyWsytf.png" group-title="Movie Central",My Time Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Sku Cinema Drama" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/8/86/Sky_Cinema_Drama_%282020-.n.v.%29.png" group-title="Movie Central",Sky Cinema Drama
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=190865&extension=m3u8
