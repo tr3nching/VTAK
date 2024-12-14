@@ -2364,42 +2364,42 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ef1ead56d048943f75
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PNX1mVDwOddkKCXJ3+iySw","kid":"Lip4EndCX6aVxYSEet/93Q"}],"type":"temporary"}
-#EXTINF:0 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018593X0-portrait.jpg",Annabelle 2014
+#EXTINF:0 tvg-id="" group-title="English VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018593X0-portrait.jpg",Annabelle 2014
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7736963ae366782ad8d419_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"o/KxnDxumhFgbb1aqAavrg", "kid":"mOLGZX+lUn6kJgNn+p7Ttg" } ], "type":"temporary" }
-#EXTINF:0 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021340X0-portrait.jpg",Annabelle Creation 2017
+#EXTINF:0 tvg-id="" group-title="English VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021340X0-portrait.jpg",Annabelle Creation 2017
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e2a72cbea8a6a4eef62fc_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kfEKwVuRoef9XiJpD0BQhg", "kid":"U08nIum5WcO1RinbbU/b2Q" } ], "type":"temporary" }
-#EXTINF:0 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023471X0-portrait.jpg",Annabelle Comes Home 2019
+#EXTINF:0 tvg-id="" group-title="English VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023471X0-portrait.jpg",Annabelle Comes Home 2019
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ea3b3776d048943f7505cb4_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pIRju2ABeKm/+zZ/gwDGZg","kid":"Fo+R69SEV5aRRsmYFUxn9Q"}],"type":"temporary"}
-#EXTINF:0 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023075X0-portrait.jpg",Aquaman 2018
+#EXTINF:0 tvg-id="" group-title="English VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023075X0-portrait.jpg",Aquaman 2018
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da9c19bcbea8a6a4ef2035c_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wfASatvCunB1rGsUOmjNxg", "kid":"K/UnBJ8aM/b6NDWPucK5ew" } ], "type":"temporary" }
-#EXTINF:0 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041831X0-portrait.jpg",Aquaman And The Lost Kingdom 2023
+#EXTINF:0 tvg-id="" group-title="English VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041831X0-portrait.jpg",Aquaman And The Lost Kingdom 2023
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65d41058d940521074f4f78c_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C+Yw+g4oAZjAmnrfDUHulg", "kid":"x7F5akOcXfaLge8/6k9rrw" } ], "type":"temporary" }
-#EXTINF:0 tvg-id="" group-title="HBOGO Asia" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009175X0-portrait.jpg",Batman 1989
+#EXTINF:0 tvg-id="" group-title="English VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009175X0-portrait.jpg",Batman 1989
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fe7965e59f821aa9e6ee5c_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
