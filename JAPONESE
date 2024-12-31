@@ -226,6 +226,9 @@ http://data.enics.cloud:9999/stream/iptv/heartofasia/master.m3u8?u=meow&p=792587
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I Heart Movies" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/40/I_Heart_Movies_3D_Logo_2021.png/revision/latest?cb=20220913064316" group-title="Local",I Heart Movies 
 http://data.enics.cloud:9999/stream/iptv/ihm/master.m3u8?u=meow&p=792587d6440f54f1bbcc4428f078d4de37a3ddae065f1cccd9cd45ba8f6bbf69
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://imgur.com/sC3yTot.png" group-title="Local",Hallypop!
+https://jungotvstream-chanall.akamaized.net/jungotv/hallypop/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Local", TMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -396,6 +399,11 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 #KODIPROP:inputstream.adaptive.license_key=6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
 
+#EXTINF:-203 tvg-logo="https://i.imgur.com/K3knyIN.png" group-title="Local",Solar Sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/TVUP%20Logo%20.png" group-title="Local", TVUP!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -543,7 +551,9 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="MYX Global" tvg-logo="https://i.imgur.com/XPAXVUk.png" group-title="Local",MYX Philippines
-http://115.146.176.131:80/TimRizal/TimRizal/66.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="717.astro" tvg-name=".astro" tvg-logo="https://i.imgur.com/YMAqnUN.png" group-title="Local",MTV Live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -808,6 +818,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
+#EXTINF:-215 tvg-logo="https://ibb.co/rwRXDW4" group-title="Sports",Premier Football
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TrueFM TV" tvg-logo="https://i.ibb.co/b1ysLd1/fight-sports-one-destination-small-1-removebg-preview.png" group-title="Local",Fight Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -838,9 +853,6 @@ https://exempli.feitantv.workers.dev/@HILAKBOTHorrorStories.m3u8
 
 #EXTINF:-1 group-logo="https://st.depositphotos.com/2274151/3306/i/600/depositphotos_33060717-stock-photo-reserved-red-grunge-stamp.jpg"
 
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://imgur.com/sC3yTot.png" group-title="RESERVED CHANNELS",Hallypop!
-http://admin.ganbaruby23.xyz/stream/new/hallypop/master.m3u8?u=4568185514&p=729c795a2e7aa95f684d5c17e6681649b872158019ffce987a14f1b2c51cfef6
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinoy Xtreme" tvg-logo="https://imgur.com/NXb4qmF.png" group-title="RESERVED CHANNELS",Pinoy Hits
 http://admin.ganbaruby23.xyz/stream/new/pinoyhits/master.m3u8?u=4568185514&p=729c795a2e7aa95f684d5c17e6681649b872158019ffce987a14f1b2c51cfef6
@@ -1243,10 +1255,8 @@ http://streamnavs.net:8091/live
 
 #EXTINF:-1 group-logo="https://instanthub.s3.amazonaws.com/wp-content/uploads/2018/06/Pixar.jpg"
 
-#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="KIDS NETWORKS", ANIMAX 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.imgur.com/ltRW5ev.png" group-title="KIDS NETWORKS", ANIMAX 
+http://vthanh.utako.moe/9/index.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-US800003JM" tvg-id="US800003JM" tvg-logo="https://i.imgur.com/BbdlqWg.png" group-title="KIDS NETWORKS" tvg-chno="3724",BBC Kids
 https://jmp2.uk/sam-US800003JM.m3u8
@@ -1493,8 +1503,47 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&
 https://jmp2.uk/sam-USAJ3000013FJ.m3u8
 #EXTINF:-1 channel-id="US39000038W" tvg-id="US39000038W" tvg-chno="4445" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241105T024353SQUARE.png" group-title="PREMIUM MUSIC", K-POP by CJ ENM
 https://jmp2.uk/sam-US39000038W.m3u8
+#EXTINF:-174 tvg-logo="https://i.imgur.com/4Xs0WTB.png"  group-title="PREMIUM MUSIC",Club MTV
+http://87.254.1.41:9981/stream/channelid/1623019863?profile=passs
+#EXTINF:-189 tvg-logo="https://i.imgur.com/AOaZmlS.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="PREMIUM MUSIC",MTV Biggest Pop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+
+#EXTINF:-190 tvg-logo="https://i.imgur.com/thbvJd1.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="PREMIUM MUSIC",MTV Spankin' New
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4
+
+#EXTINF:-191 tvg-logo="https://i.imgur.com/WnZiNz0.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="PREMIUM MUSIC",MTV Unplugged
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98471110cca20007d39f76/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b53-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=81574af2-8af4-46c8-8d63-00cbea99cbf5
+
+#EXTINF:-192 tvg-logo="https://i.imgur.com/hzNXDdY.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="PREMIUM MUSIC",YO! MTV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
 #EXTINF:-1 channel-id="USBD3500022DN" tvg-id="USBD3500022DN" tvg-chno="4482" tvg-name="Greatest Holiday Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20241105T024201SQUARE.png" group-title="PREMIUM MUSIC", Greatest Holiday Hits
 https://jmp2.uk/sam-USBD3500022DN.m3u8
+#EXTINF:-175 tvg-logo="https://i.imgur.com/VRazo4V.png"  group-title="PREMIUM MUSIC",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-176 tvg-logo="https://i.imgur.com/gVpgBO4.png"  group-title="PREMIUM MUSIC",VH1
+http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/93676.ts
+
+#EXTINF:-177 tvg-logo="https://i.imgur.com/ST060qy.png"  group-title="PREMIUM MUSIC",Rock TV Manila
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001177/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-199 tvg-logo="https://i.imgur.com/WNyPhah.png" group-title="PREMIUM MUSIC",CONCERT
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="kloopy" tvg-logo="https://i.ibb.co/JR1nZYb/Kaloopy-cc.png" group-title="PREMIUM MUSIC",Kaloopy
+https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/koiq1049gt89pg5/ 
+
+#EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="PREMIUM MUSIC",Clubbingtv
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="PREMIUM MUSIC" logo="https://static.vecteezy.com/system/resources/previews/006/249/962/non_2x/music-logo-icon-initial-letter-z-music-logo-design-template-element-vector.jpg", Z! MUSIC HD
+http://iyvhm8br.akciatv.ru/iptv/GGP3ZAYPXGWHWL/14138/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="PREMIUM MUSIC" logo="http://images.zaltv.club/logo/v2.jpg", V2BEAT HD
+http://de1se01.v2beat.live/playlist.m3u8
+
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD300011KQ" tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20240520T212856SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4388",Vevo '70s
 https://jmp2.uk/sam-USBD300011KQ.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD300012YC" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20240520T212858SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4391",Vevo '80s
@@ -1509,6 +1558,8 @@ https://jmp2.uk/sam-USBB4400015F5.m3u8
 https://jmp2.uk/sam-USBC3600001RQ.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD1200008GL" tvg-id="USBD1200008GL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20240520T212908SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4421",Vevo Features
 https://jmp2.uk/sam-USBD1200008GL.m3u8
+#EXTINF:-183 tvg-logo="https://i.imgur.com/owUXUih.png" group-title="Music",Vevo True School Hip-Hop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e
 #EXTINF:-1 channel-id="SamsungTVPlus-USBC3600002EK" tvg-id="USBC3600002EK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20240520T212910SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4409",Vevo Hip-Hop
 https://jmp2.uk/sam-USBC3600002EK.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBC3600015GF" tvg-id="USBC3600015GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20240520T212912SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4406",Vevo Latino
@@ -1575,6 +1626,8 @@ https://jmp2.uk/sam-USBD3500016NH.m3u8
 https://jmp2.uk/sam-USBD3500009Y3.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://i.ibb.co/Dt0RW1c/Tik-Tok-Radio-Logo-removebg-preview.png" group-title="PREMIUM MUSIC" tvg-chno="4403",Stingray TikTok Radio
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885552/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885552
+#EXTINF:-198 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="PREMIUM MUSIC",STINGRAY CMUSIC
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
 
 ````````PREMIUM MOVIES````````
@@ -1777,6 +1830,10 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
 
 #EXTINF:-1 tvg-id="USBD1200007FE" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/OuterSphereByLionsgate.png" group-logo="" group-title="Movie Central",OuterSphere by Lionsgate
 https://raw.githubusercontent.com/mystery75/m3u8/main/OUTERSPHERE.m3u8
+
+#EXTINF:0 tvg-id="boxmovie1" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" logo="https://i.imgur.com/leWw1zz.png",Box Movies
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="My Time Movie Network" tvg-logo="https://i.imgur.com/QyWsytf.png" group-title="Movie Central",My Time Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
@@ -2283,6 +2340,13 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
+#EXTINF:-220 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="PREMIUM SPORTS",Astro Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
+
+
 #EXTINF:-1 tvg-id = "PremierSports" group-title="PREMIUM SPORTS" ch-number = "823" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/190px-Premier_sports_logo_2018.svg.png?20180923092838", Premier Sports HD
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
@@ -2393,6 +2457,12 @@ https://ln.run/4x0dD
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="RedBull TV" tvg-logo="https://i.ibb.co/wdNVFQV/mma-fighting-logo-vector-14220884-removebg-preview.png" group-title="PREMIUM SPORTS",Top Fight HD
 https://ln.run/NQtPF
+
+#EXTINF:-229 tvg-logo="https://i.imgur.com/e3TGY3m.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="PREMIUM SPORTS",GAMETOON
+http://87.254.1.41:9981/stream/channelid/275283692?profile=pass
+
+#EXTINF:-230 tvg-logo="https://i.imgur.com/EBRw5Mj.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="PREMIUM SPORTS",GINX TV
+https://starshare.live:443/live/7382837374/5003958588/154220.m3u8
 
 #EXTINF:-1 tvg-id="new/blastsportshd" tvg-name="Blast Sports" tvg-logo="https://imgur.com/gWx5OlB.png" group-title="PREMIUM SPORTS",Blast Sports
 http://hls.studentsdemo.com:8080/memfs/5ad9ee7b-5604-4e7c-95c5-dacd68b1d3ae.m3u8
