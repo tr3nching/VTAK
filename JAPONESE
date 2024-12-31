@@ -259,9 +259,9 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 
 #EXTINF:-1 tvg-id="CINEMO!.ph" tvg-name="CineMo!" tvg-logo="https://i.ibb.co/y4q1ttt/cinemaworld-2-1.png" group-title="Local",CinemaWorld
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="709.astro" tvg-logo="https://i.imgur.com/O5jBcL2.png" group-title="Local", Asian Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -1753,7 +1753,8 @@ http://apkandweb.ddns.net/6377635294/6663568605/1020473
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/K_ml0BpMbu0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AW.pngKAgwIABABGHIgRigpMA8%3D&rs=AOn4CLAP8naivzRjZnmtw9PhsMbCToEJ2Q&fbclid=IwY2xjawGMYBVleHRuA2FlbQIxMAABHThNajME8d6cpYDDFynhyqzOOG0nqfKDVUj-3EieemG5Mehf6gkh-OT1qw_aem_mIk3O0_c69VkmnDkjvxr2Q.png"
 
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fxm1111.png" group-title="Movie Central",FXM HD
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:7D:17:D4&stream=45450&extension=ts&play_token=gxESjid8BH
+http://38.224.222.34:8000/play/a00i
+
 
 #EXTINF:-1 tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="Movie Central",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
@@ -1773,36 +1774,11 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/OUTERSPHERE.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-name="My Time Movie Network" tvg-logo="https://i.imgur.com/QyWsytf.png" group-title="Movie Central",My Time Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sku Cinema Drama" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/8/86/Sky_Cinema_Drama_%282020-.n.v.%29.png" group-title="Movie Central",Sky Cinema Drama
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=190865&extension=m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Sky_Cinema_Action_DE_Logo_2016.png" group-title="Movie Central",Sky Cinema Action
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=113865&extension=m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Animation" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Sky_Cinema_Animation_Oct_2017.png" group-title="Movie Central",Sky Cinema Animation
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=339670&extension=m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sky_Cinema_Comedy_-_Logo_2016.svg/2560px-Sky_Cinema_Comedy_-_Logo_2016.svg.png" group-title="Movie Central",Sky Cinema Comedy
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=339672&extension=m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sky_Cinema_Family_DE_Logo_2016.png" group-title="Movie Central",Sky Cinema Family
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=12474&extension=m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sky_Cinema_Hits_-_Logo_2016.svg/1200px-Sky_Cinema_Hits_-_Logo_2016.svg.png" group-title="Movie Central",Sky Cinema Hits
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=80309&extension=m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Sci-Fi & Horror" tvg-logo="https://tvguidetonight.co.uk/wp-content/uploads/2020/06/sky-cinema-sci-fi-horror.png" group-title="Movie Central",Sky Cinema Sci-Fi & Horror
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=113867&extension=m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Sky Cinema Thriller" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sky_Cinema_Thriller_DE_Logo_2020.svg/2560px-Sky_Cinema_Thriller_DE_Logo_2020.svg.png" group-title="Movie Central",Sky Cinema Thriller
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=339674&extension=m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Movie Central",Star Movies HD
-http://119.156.26.155:8000/play/a06p/index.m3u8
+https://starshare.live:443/live/7382837374/5003958588/98842.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/7OjPgvd.png" group-title="Movie Central",Star Movies Select HD
-http://119.156.26.155:8000/play/a06q/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",Star Movies Select HD
+https://starshare.live:443/live/7382837374/5003958588/98843.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN TV FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png" group-title="Movie Central",RAKUTEN TV FAMILY
 https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
@@ -1846,6 +1822,8 @@ https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1jDgTgxeP5jcOIQL4cHdTA", "kid":"+eS+CZJsJi7/orU4GuNVPQ" } ], "type":"temporary" }
 https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
 
+#EXTINF:-46 tvg-logo="https://i.imgur.com/WZsIkUf.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",Star Channel
+http://201.182.248.254:8888/play/a072/index.m3u8
 
 #EXTINF:-1 tvg-id="413" group-title="Movie Central" tvg-id="ShowcaseMovies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1858,8 +1836,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=239
 https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=239
 
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://seeklogo.com/images/S/studio-universal-logo-9D1649FDA2-seeklogo.com.png" group-title="Movie Central" tvg-id="" , Studio Universal
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-StudioUniversal.m3u8
+#EXTINF:-55 tvg-logo="https://i.imgur.com/UhRluq1.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",Universal TV
+http://190.102.246.93:9005/play/a01o
+
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central" tvg-id="" , Studio Universal
+http://190.102.246.93:9005/play/a01e
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3FG7shh/309711808-510224337781742-6135287715344601247-n-removebg-preview.png" group-title="Movie Central",ACTION HOLLYWOOD MOVIES
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
@@ -1890,6 +1872,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 #EXTINF:-1 tvg-id="GALAXYPremium" tvg-logo="https://i.ibb.co/GW54sBm/Galaxy-Premium-1.pngg" group-logo="" group-title="Movie Central",Galaxy Premium HD
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
+#EXTINF:-82 tvg-logo="https://i.imgur.com/B9m9J1Y.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",CINEMAX 2
+http://185.236.229.62:9981/play/a07r
+
 #EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="IN: Movies Now (4K)" tvg-logo="https://i.ibb.co/0qKmPKd/e0612c9989dba69138bb8026d23dbec1-removebg-preview-1.png" group-title="Movie Central", MNX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
@@ -1900,15 +1885,15 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN: &FLIX (4K)." tvg-logo="https://imgur.com/3BU6Wsg.png" group-title="Movie Central", &FLIX HD
-http://119.156.26.155:8000/play/a06x/index.m3u8
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN: &FLIX (4K)." tvg-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central", &FLIX HD
+https://starshare.live:443/live/7382837374/5003958588/98841.m3u8
 
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://i.ibb.co/HTPJk7b/OIP-1-removebg-preview.png" group-title="Movie Central", &PRIVE HD
-http://119.156.26.155:8000/play/a07j/index.m3u8
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central", &PRIVE HD
+http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/93644.ts
 
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://i.ibb.co/GxPdLF9/1-removebg-preview.png" group-title="Movie Central",MN HD
-http://119.156.26.155:8000/play/a06o/index.m3u8
-
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://i.imgur.com/7rENkRg.pn" group-title="Movie Central",MN HD
+https://starshare.live:443/live/7382837374/5003958588/98847.m3u8
+ 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.imgur.com/UmuJkVB.png" group-title="Movie Central",Pluto TV Spotlight
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
 
@@ -1938,6 +1923,29 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885515/hls/master.m3u8?withResolut
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dbcefe05-d763-4623-9afc-0c51cb677715/classictvfff63fd69fce280ad874ccbb8dd92b81_RDX2.png" group-title="Movie Central",  FilmRise Classic TV
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885509/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885509
+
+#EXTINF:-68 tvg-logo="https://i.imgur.com/5Qloxv0.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",COMEDY CENTRAL
+http://38.191.90.2:8000/play/a04l
+
+#EXTINF:-73 tvg-logo="https://i.imgur.com/IPKiteM.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",CINEMACHI
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
+http://202.147.193.244/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-74 tvg-logo="https://i.imgur.com/uGEC5a6.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",CINEMACHI ACTION
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
+http://202.147.193.244/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTINF:-75 tvg-logo="https://i.imgur.com/CHcq2jF.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",CINEMACHI MAX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
+http://202.147.193.244/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-76 tvg-logo="https://i.imgur.com/NzeRKmi.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",CINEMACHI XTRA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
+http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="Movie Central",Douyu Movies 01
 http://epg.112114.xyz/douyu/276200
