@@ -226,9 +226,8 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68587f789fe0188421264d560f5/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: PARAMOUNT UHD" tvg-logo="http://apkip.tv/logos/USA/Pa
-ramountNetwork.us.png" group-title="Local",Paramount Network
-http://apkandweb.ddns.net/6377635294/6663568605/667799
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: PARAMOUNT UHD" tvg-logo="http://apkip.tv/logos/USA/ParamountNetwork.us.png" group-title="Local",Paramount Network
+http://190.102.246.93:9005/play/a01d
 
 #EXTINF:-1 tvg-id="411.astro" tvg-logo="https://logodix.com/logo/95790.png" group-title="Local", HBO HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
