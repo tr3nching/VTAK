@@ -55,16 +55,10 @@ https://shorten.is/Mikeph-gmatv-backup-m3u8?.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA Life TV" tvg-logo="https://th.bing.com/th/id/R.d0165b6db6563373f0bfac9775fabf05?rik=bsiELqI%2ft6A%2bCA&pid=ImgRaw&r=0" group-title="Local",GMA Life TV
-http://79.127.235.177:1234/stream/TRICKFLIX/gmalife/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA Pinoy TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/GMA_Pinoy_TV_(2011).png/revision/latest/scale-to-width-down/250?cb=20230617204705" group-title="Local",GMA Pinoy TV
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA Life TV" tvg-logo="https://images3.wikia.nocookie.net/__cb20120214110427/logopedia/images/6/68/GMA_News_TV.png" group-title="Local",GMA News TV
-http://79.127.235.177:1234/stream/TRICKFLIX/gmanews-1/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="Local", One News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -80,6 +74,11 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_cnnhd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="aliwtv" tvg-name="ALIW CHANNEL 23" tvg-logo="https://i.imgur.com/bDOKOV9.png" group-title="Local",ALIW CHANNEL 23
+http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" group-title="Local", RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -133,16 +132,31 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
+#EXTINF:-1 tvg-id="" ch-number="" group-title="Local" tvg-logo="https://static.wixstatic.com/media/3f6f0d_ab7b0ed79ba7476cb9522381586d4d0f~mv2.png/v1/fill/w_529,h_270,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/JungoPinoy_BrandLogo.png",Junggo Pinoy TV
+https://jungotvstream-chanall.akamaized.net/jungotv/jungopinoytv/stream.m3u8
+
+#EXTINF:-1 tvg-id="" ch-number="" group-title="Local" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/07/Scream_Flix_3D_Logo_2022.png/revision/latest?cb=20220623022336",ScreamFlix
+https://jungotvstream-chanall.akamaized.net/jungotv/screamflix/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Kapamilya_Channel_hd_flat_latest.png/revision/latest?cb=20240502124554" group-title="Local",Kapamilya Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="Local",Kapamilya Channel
-http://data.enics.cloud:9999/stream/iptv/kapamilya/master.m3u8?u=meow&p=792587d6440f54f1bbcc4428f078d4de37a3ddae065f1cccd9cd45ba8f6bbf69
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Celestial Movies Pinoy" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="Local",Celestial Movies Pinoy
-http://79.127.235.177:1234/stream/TRICKFLIX/celestialmoviespinoy/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="SOLARFLIX.ph" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Local",SolarFlix
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001243/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Local", tvN Movies Pinoy
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -645,8 +659,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
 
-#EXTINF:-1 tvg-id="" ch-number="411" group-title="Local" tvg-logo="https://i.imgur.com/zZWj5vn.png",TFC HD
+#EXTINF:-1 tvg-id="" ch-number="411" group-title="Local" tvg-logo="https://i.imgur.com/zZWj5vn.png",TFC SD
 https://bit.ly/3WLqRDR
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+#EXTINF:-1 tvg-id="tfcasia" tvg-name="TFC ASIA" tvg-logo="https://i.imgur.com/WaNjDaK.png" group-title="Local",TFC ASIA
+https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=457c50351e2a4c42a5c34cfb5c0b0682:03a2754079e082f7dec48ad362e3899e
+#EXTINF:-1 tvg-id="tfceurope" tvg-name="TFC EUROPE" tvg-logo="https://i.imgur.com/WaNjDaK.png" group-title="Local",TFC EUROPE
+https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279
+#EXTINF:-1 tvg-id="tfccanada" tvg-name="TFC CANADA" tvg-logo="https://i.imgur.com/WaNjDaK.png" group-title="Local",TFC CANADA
+https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
 
 #EXTINF:-1 tvg-id="412.astro" ch-number="412" group-title="Local" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -770,6 +799,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1d76704a9f84ce28e7e3d154c7dc5b1:36d98c5b0aad47b256629e57a651e3d8
+#EXTINF:-1 tvg-id="morenter" tvg-name="MOR ENTERTAINMENT" tvg-logo="https://i.imgur.com/hLi2vqi.png" group-title="Local",MOR Entertainment
+https://abslive.akamaized.net/dash/live/2028025/mor/manifest.mpd|Referer=https://www.iwanttfc.com/
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/h9MB92R/wish1075-orig-removebg-preview-1.png" group-title="Local",Wish 107.5
 https://radio.wish1075.com/web/stream/wish.m3u8
 
@@ -783,8 +817,6 @@ https://exempli.feitantv.workers.dev/@HILAKBOTHorrorStories.m3u8
 
 #EXTINF:-1 group-logo="https://st.depositphotos.com/2274151/3306/i/600/depositphotos_33060717-stock-photo-reserved-red-grunge-stamp.jpg"
 
-#EXTINF:-1 tvg-id="SOLARFLIX.ph" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="RESERVED CHANNELS",SolarFlix
-https://ln.run/12345
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://imgur.com/sC3yTot.png" group-title="RESERVED CHANNELS",Hallypop!
 http://admin.ganbaruby23.xyz/stream/new/hallypop/master.m3u8?u=4568185514&p=729c795a2e7aa95f684d5c17e6681649b872158019ffce987a14f1b2c51cfef6
