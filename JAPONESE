@@ -221,7 +221,7 @@ https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
 https://ln.run/Zc85c
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Heart of Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Heart_of_Asia_3D_Logo.png/revision/latest/scale-to-width-down/250?cb=20200713050134" group-title="Local",Heart of Asia 
-http://data.enics.cloud:9999/stream/iptv/heartofasia/master.m3u8?u=meow&p=792587d6440f54f1bbcc4428f078d4de37a3ddae065f1cccd9cd45ba8f6bbf69
+https://drive.google.com/file/d/1fRRq5XQYG9yH0gXiwfdLNdqme3b39HlB/view
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I Heart Movies" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/40/I_Heart_Movies_3D_Logo_2021.png/revision/latest?cb=20220913064316" group-title="Local",I Heart Movies 
 http://data.enics.cloud:9999/stream/iptv/ihm/master.m3u8?u=meow&p=792587d6440f54f1bbcc4428f078d4de37a3ddae065f1cccd9cd45ba8f6bbf69
