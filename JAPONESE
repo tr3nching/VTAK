@@ -221,10 +221,14 @@ https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
 https://ln.run/Zc85c
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Heart of Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Heart_of_Asia_3D_Logo.png/revision/latest/scale-to-width-down/250?cb=20200713050134" group-title="Local",Heart of Asia 
-https://drive.google.com/file/d/1fRRq5XQYG9yH0gXiwfdLNdqme3b39HlB/view
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbda230f9f7d779f429385b49c156ac7:44242e42ba3c3c36b13e5085b3937617
+https://cdn5.ganbaruby23.xyz/live_stream/live_manifest.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I Heart Movies" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/40/I_Heart_Movies_3D_Logo_2021.png/revision/latest?cb=20220913064316" group-title="Local",I Heart Movies 
-http://data.enics.cloud:9999/stream/iptv/ihm/master.m3u8?u=meow&p=792587d6440f54f1bbcc4428f078d4de37a3ddae065f1cccd9cd45ba8f6bbf69
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e75f0360828d047b0fb7eb3fbe40ad3:c33bc1ba6b3b19aac1109461b9100f5f
+https://cdn5.ganbaruby23.xyz/live_stream/iheartmovies/index.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://imgur.com/sC3yTot.png" group-title="Local",Hallypop!
 https://jungotvstream-chanall.akamaized.net/jungotv/hallypop/stream.m3u8
@@ -2266,6 +2270,36 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="motorvisiontv" tvg-name="MOTORVISION TV FHD" tvg-logo="https://i.imgur.com/KjfhXe2.png" group-title="PREMIUM SPORTS",MOTORVISION TV 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-motorvisiontv-dazn/stream.mpd?p=web
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="daznpowersportsworld" tvg-name="POWERSPORTS WORLD" tvg-logo="https://i.imgur.com/38cXMZk.png" group-title="PREMIUM SPORTS",POWERSPORTS WORLD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01267-triplebmedia-motoamerica-dash-dazn/stream.mpd?p=web|User-Agent=Roku/DVP-12.0/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="dazncombat" tvg-name="DAZN COMBAT" tvg-logo="https://i.imgur.com/r5Hn1cY.jpg" group-title="PREMIUM SPORTS",DAZN COMBAT
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd|User-Agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="daznfast" tvg-name="DAZN FAST+" tvg-logo="https://i.imgur.com/NhjhR90.jpg" group-title="PREMIUM SPORTS",DAZN FAST+
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd|User-Agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="daznrise" tvg-name="DAZN RISE" tvg-logo="https://i.imgur.com/13584YD.jpg" group-title="PREMIUM SPORTS",DAZN RISE
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd|User-Agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="padeltime" tvg-name="PADEL TIME" tvg-logo="https://i.imgur.com/kl6xiZy.png" group-title="PREMIUM SPORTS",PADEL TIME
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-513/stream.mpd|User-Agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+
 #EXTINF:-1  group-title="PREMIUM SPORTS" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png",USA Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2273,11 +2307,29 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="boxingtvit" tvg-name="BOXING TV" tvg-logo="https://i.imgur.com/erwsWa0.png" group-title="PREMIUM SPORTS",BOXING TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01267-triplebmedia-boxingtv-dash-dazn/stream.mpd?p=web
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="matchroomtv" tvg-name="MATCHROOM TV" tvg-logo="https://i.imgur.com/ROtr1jD.png" group-title="PREMIUM SPORTS",MATCHROOM TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-matchroom-boxing-dash-dazn/stream.mpd?p=web
+
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Bellator MMA" tvg-logo="https://imgur.com/2Cz3vE3.png" group-title="PREMIUM SPORTS",Bellator MMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Billiard TV" tvg-logo="https://i.imgur.com/ePFs2qG.png" group-title="PREMIUM SPORTS",Billiard TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01267-triplebmedia-billiardtv-dash-dazn/stream.mpd?p=web
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-id="pgatour" tvg-name="PGA TOUR" tvg-logo="https://i.imgur.com/uIBQ07R.png" group-title="PREMIUM SPORTS",PGA TOUR
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-505/stream.mpd|User-Agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Horse & Country" tvg-logo="https://i.imgur.com/9RThOrN.png" group-title="PREMIUM SPORTS",Horse & Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
