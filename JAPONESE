@@ -2282,17 +2282,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01267-triplebmedia-motoamerica-dash
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 tvg-id="dazncombat" tvg-name="DAZN COMBAT" tvg-logo="https://i.imgur.com/r5Hn1cY.jpg" group-title="PREMIUM SPORTS",DAZN COMBAT
+#EXTINF:-1 tvg-id="dazncombat" tvg-name="DAZN COMBAT" tvg-logo="https://ibb.co/x3Qz92d" group-title="PREMIUM SPORTS",DAZN COMBAT
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd|User-Agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 tvg-id="daznfast" tvg-name="DAZN FAST+" tvg-logo="https://i.imgur.com/NhjhR90.jpg" group-title="PREMIUM SPORTS",DAZN FAST+
+#EXTINF:-1 tvg-id="daznfast" tvg-name="DAZN FAST+" tvg-logo="https://ibb.co/4FpwnXK" group-title="PREMIUM SPORTS",DAZN FAST+
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd|User-Agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 tvg-id="daznrise" tvg-name="DAZN RISE" tvg-logo="https://i.imgur.com/13584YD.jpg" group-title="PREMIUM SPORTS",DAZN RISE
+#EXTINF:-1 tvg-id="daznrise" tvg-name="DAZN RISE" tvg-logo="https://ibb.co/P5mfG8q" group-title="PREMIUM SPORTS",DAZN RISE
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd|User-Agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
