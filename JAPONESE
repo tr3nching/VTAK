@@ -1363,7 +1363,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Carib (FLOW) Discovery Kids (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png?20220307004006" group-title="KIDS NETWORKS", Discovery Kids 
 http://38.191.90.2:8000/play/a00j
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Discovery Family" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/DF_3D_Logo_Yellow.png" group-title="KIDS NETWORKS",Discovery Family
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=154167&extension=m3u8
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: BABY TV" tvg-logo="http://apkip.tv/logos/UK/BabyTV.uk.png" group-title="KIDS NETWORKS",UK: BABY TV
 http://apkandweb.ddns.net/6377635294/6663568605/928137
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: DISNEY XD" tvg-logo="http://apkip.tv/logos/USA/DisneyXD.us.png" group-title="KIDS NETWORKS",UK: DISNEY XD
@@ -1985,22 +1985,22 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IN: DISCOVERY (4K)." tvg-logo="https://i.ibb.co/3ycBLXg/discovery-inc-removebg-preview.png" group-title="Animals, Nature & History", DISCOVERY HD
-http://119.156.26.155:8000/play/a07d/index.m3u8
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Carib (FLOW) Discovery Science (D)" tvg-logo="https://i.ibb.co/HGbRMkk/png-clipart-discovery-science-discovery-channel-investigation-discovery-logo-science-television-text.png" group-title="Animals, Nature & History", Discovery Science
-https://bit.ly/40myfaD
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Carib (FLOW) DISCOVERY TURBO (D)" tvg-logo="https://img3.wikia.nocookie.net/__cb20140810164321/logosfake/images/1/12/Discovery_Turbo_HD_2014.png" group-title="Animals, Nature & History", DISCOVERY TURBO 
 https://bit.ly/3AjCqJM
 
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: ANIMAL PLANET (4K)." tvg-logo="https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png" group-title="Animals, Nature & History", ANIMAL PLANET HD
-https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IN: National GEO (4K)." tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Channel-Logo-2001-2005.png" group-title="Animals, Nature & History",National Geographic HD
-http://119.156.26.155:8000/play/a06r/index.m3u8
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN: NAT Geo Wild (4K)." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png" group-title="Animals, Nature & History", NAT Geo Wild HD
-http://119.156.26.155:8000/play/a06f/index.m3u8
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN: Sony BBC EARTH (4K)." tvg-logo="https://i.ibb.co/8rWc2JK/sony-bbc-earth-possible-future-logo-by-red2222222222-dedcdbh-fullview-removebg-preview.png" group-title="Animals, Nature & History", Sony BBC EARTH HD
 http://bit.ly/4f2VV8G
