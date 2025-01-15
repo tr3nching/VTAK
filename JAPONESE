@@ -346,10 +346,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoonito Asia" tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="Local",Cartoonito 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
-https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="617.astro" tvg-name="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/544627ef-b613-4f03-86c9-037e51bd8747/dg81i5p-9a91c59b-1204-45af-bd05-2b80e17ea4b2.png/v1/fill/w_847,h_646/nick_jr__splat_3d_logo_with_2_objects_by_markthenostalgiafan_dg81i5p-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ2IiwicGF0aCI6IlwvZlwvNTQ0NjI3ZWYtYjYxMy00ZjAzLTg2YzktMDM3ZTUxYmQ4NzQ3XC9kZzgxaTVwLTlhOTFjNTliLTEyMDQtNDVhZi1iZDA1LTJiODBlMTdlYTRiMi5wbmciLCJ3aWR0aCI6Ijw9ODQ3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.QrDR2E_SihXaeqHrYPxnlHesyT1kf2SObY6cdT-jBrY" group-title="Local", Nick JR.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1339,10 +1338,6 @@ https://ln.run/5-ukg
 
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="KIDS NETWORKS",Retro Crush
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: DISNEY CHANNEL" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="KIDS NETWORKS", DISNEY CHANNEL
-http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: TREEHOUSE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80173_dark_360w_270h.png" group-title="KIDS NETWORKS",CA: TREEHOUSE
-http://apkandweb.ddns.net/6377635294/6663568605/1343823
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/l7p2MpK.png" group-title="KIDS NETWORKS",Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
@@ -1386,41 +1381,27 @@ http://apkandweb.ddns.net/6377635294/6663568605/614786
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: BABY TV" tvg-logo="http://apkip.tv/logos/USA/BabyTV.us.png" group-title="KIDS NETWORKS",USA: BABY TV
 http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/102465.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: BOOMERANG" tvg-logo="https://imgur.com/4b7CUYK.png" group-title="KIDS NETWORKS",USA: BOOMERANG
-http://data.enics.cloud:9999/stream/iptv/boomerang/stream.m3u8?uid=2171635951&u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: BOOMERANG UHD" tvg-logo="https://imgur.com/L9jF0ln.png" group-title="KIDS NETWORKS",USA: BOOMERANG 
-http://apkandweb.ddns.net/6377635294/6663568605/665
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CARTOON NETWORK" tvg-logo="http://apkip.tv/logos/USA/CartoonNetwork.us.png" group-title="KIDS NETWORKS",USA: CARTOON NETWORK
-http://apkandweb.ddns.net/6377635294/6663568605/1020610
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CARTOON NETWORK UHD" tvg-logo="http://apkip.tv/logos/USA/CartoonNetwork.us.png" group-title="KIDS NETWORKS",USA: CARTOON NETWORK UHD
-http://apkandweb.ddns.net/6377635294/6663568605/667
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY CHANNEL" tvg-logo="http://apkip.tv/logos/USA/DisneyChannel.us.png" group-title="KIDS NETWORKS",USA: DISNEY CHANNEL
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY CHANNEL" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="KIDS NETWORKS",DISNEY CHANNEL
 http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY JR" tvg-logo="http://apkip.tv/logos/USA/DisneyJunior.us.png" group-title="KIDS NETWORKS",USA: DISNEY JR
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY JR UHD" tvg-logo="http://apkip.tv/logos/USA/DisneyJunior.us.png" group-title="KIDS NETWORKS",USA: DISNEY JR UHD
-http://apkandweb.ddns.net/6377635294/6663568605/670
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY XD" tvg-logo="http://apkip.tv/logos/USA/DisneyXD.us.png" group-title="KIDS NETWORKS",USA: DISNEY XD
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NICK JR" tvg-logo="http://apkip.tv/logos/USA/NickJr.us.png" group-title="KIDS NETWORKS",NICK JR
-http://185.236.229.62:9981/play/a06n
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NICKELODEON" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/cb/Nickelodeon_2023_logo.png/revision/latest?cb=20240120183150" group-title="KIDS NETWORKS",USA: NICKELODEON
-http://apkandweb.ddns.net/6377635294/6663568605/1020615
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NICKELODEON UHD" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/cb/Nickelodeon_2023_logo.png/revision/latest?cb=20240120183150" group-title="KIDS NETWORKS",USA: NICKELODEON UHD
-http://apkandweb.ddns.net/6377635294/6663568605/675
+http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NICKTOONS" tvg-logo="http://apkip.tv/logos/USA/Nicktoons.us.png" group-title="KIDS NETWORKS", NICKTOONS
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: PBS KIDS" tvg-logo="http://apkip.tv/logos/USA/PBSKIDS.png" group-title="KIDS NETWORKS",USA: PBS KIDS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: PBS KIDS" tvg-logo="http://apkip.tv/logos/USA/PBSKIDS.png" group-title="KIDS NETWORKS",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: TEEN NICK" tvg-logo="http://apkip.tv/logos/USA/TeenNick.us.png" group-title="KIDS NETWORKS",USA: TEEN NICK
-http://apkandweb.ddns.net/6377635294/6663568605/1020617
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: TEEN NICK UHD" tvg-logo="http://apkip.tv/logos/USA/TeenNick.us.png" group-title="KIDS NETWORKS",USA: TEEN NICK UHD
-http://apkandweb.ddns.net/6377635294/6663568605/678
+https://fl4.moveonjoy.com/Teen_Nick/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: UNIVERSAL KIDS" tvg-logo="http://apkip.tv/logos/USA/UniversalKids.us.png" group-title="KIDS NETWORKS",USA: UNIVERSAL KIDS
 http://apkandweb.ddns.net/6377635294/6663568605/1020618
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: UNIVERSAL KIDS UHD" tvg-logo="http://apkip.tv/logos/USA/UniversalKids.us.png" group-title="KIDS NETWORKS",USA: UNIVERSAL KIDS UHD
-http://apkandweb.ddns.net/6377635294/6663568605/679
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YTV East" tvg-logo="https://assets.ytv.com/wp-content/uploads/2021/04/09154027/Social_YTV_Logo.png" group-title="KIDS NETWORKS",YTV East
-http://fortv.cc:8080/38871863/38871863/63850
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZOOMOO HD" tvg-logo="https://i.imgur.com/pUBoxm5.png" group-title="KIDS NETWORKS",ZOOMOO HD
 https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
 
@@ -1556,6 +1537,7 @@ https://jmp2.uk/sam-USBB11000015Q.m3u8
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=197575&extension=m3u8
 #EXTINF:-1 tvg-id="tving|C00579" tvg-name="M.net FHD" tvg-logo="https://i.ibb.co/nP7scdQ/mnet-old.png" group-title="PREMIUM MUSIC",M.net UHD
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+#EXTINF:-176 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="PREMIUM MUSIC",Kpop TV Play
 #EXTINF:-1 channel-id="SamsungTVPlus-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20240520T212542SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4451",NEW KPOP
 https://jmp2.uk/sam-USAJ3000013FJ.m3u8
 #EXTINF:-1 channel-id="US39000038W" tvg-id="US39000038W" tvg-chno="4445" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241105T024353SQUARE.png" group-title="PREMIUM MUSIC", K-POP by CJ ENM
@@ -1753,7 +1735,7 @@ https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?h
 http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=14505&deviceMac=00:1A:79:A7:53:75
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png" group-title="Movie Central",Sony Movies
-http://23.162.56.3:2999/korrigan17/25AUFBdqOi/1217
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" group-title="Movie Central", AXN US
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1849,7 +1831,7 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN: &FLIX (4K)." tvg-logo="https://i.imgur.com/SMukHlr.png" group-title="Movie Central", &FLIX HD
-https://starshare.live:443/live/7382837374/5003958588/98841.m3u8
+http://watchindia.net:8880/live/63332/77616/2088.ts
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://i.imgur.com/QG3BDG1.png" group-title="Movie Central", &PRIVE HD
 http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/93644.ts
@@ -1889,6 +1871,32 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885509/hls/master.m3u8?withResolut
 
 #EXTINF:-68 tvg-logo="https://i.imgur.com/5Qloxv0.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",COMEDY CENTRAL
 http://38.191.90.2:8000/play/a04l
+
+#EXTINF:-73 tvg-logo="https://i.imgur.com/hgCWY6V.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",SPACE
+http://200.60.124.19:29000/play/a028/index.m3u8
+
+#EXTINF:-68 tvg-logo="https://i.imgur.com/o1xX0O6.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",Originals
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
+http://202.147.193.244/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-78 tvg-logo="https://i.imgur.com/e1MiZv1.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",Superrix
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
+http://202.147.193.244/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-85 tvg-logo="https://i.imgur.com/EDdFhno.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",Uniques
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
+http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-79 tvg-logo="https://i.imgur.com/xX4CERA.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",SYFY
+http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/95350.ts
+
+#EXTINF:-50 tvg-logo="https://i.imgur.com/EYrAZFG.png" group-title="Movie Central",CINEEDGE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
+http://202.147.193.244/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 #EXTINF:-73 tvg-logo="https://i.imgur.com/IPKiteM.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",CINEMACHI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
