@@ -182,6 +182,12 @@ http://143.44.136.110:6910/001/2/ch00000090990000001154/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001098/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="slajunior" tvg-name="SLA JUNIOR" tvg-logo="https://i.ibb.co/HtWbxNx/images-removebg-preview.png" group-title="Local", SLA JUNIOR
+http://143.44.136.110:6910/001/2/ch00000090990000001324/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
 #EXTINF:-1 tvg-id="Dummy" tvg-name="RJ TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Screenshot_2019-08-30_at_5.25.09_PM.png" group-title="Local",RJ TV
 http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo5xy_L33HaRMmRHdbvhG42Q/ts
 
@@ -719,7 +725,7 @@ https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/ind
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 
-#EXTINF:-1 tvg-id="551.astro" group-title="Local" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png" ch-number="551",Global Trekker
+#EXTINF:-1 tvg-id="551.astro" group-title="Local" tvg-logo="https://i.imgur.com/tURRa1o.png" ch-number="551",Global Trekker
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1317,6 +1323,14 @@ http://vthanh.utako.moe/9/index.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-US800003JM" tvg-id="US800003JM" tvg-logo="https://i.imgur.com/BbdlqWg.png" group-title="KIDS NETWORKS" tvg-chno="3724",BBC Kids
 https://jmp2.uk/sam-US800003JM.m3u8
 
+
+#EXTINF:-1 tvg-id="Treehouse.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Treehouse_TV_logo.svg/1920px-Treehouse_TV_logo.svg.png" tvg-name="Tv channel name" group-title="KIDS NETWORKS",Treehouse
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
+https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd
+
+
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="KIDS NETWORKS" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52c74659-151c-4a1e-9eaf-b20fb4106ff1/dfqz18o-bcdcb7d4-043f-46d4-a2ec-3b3be42613fd.png/v1/fill/w_905,h_883/nick__nickelodeon__splat_2023_logo_v2_by_markpipi_dfqz18o-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU3MCIsInBhdGgiOiJcL2ZcLzUyYzc0NjU5LTE1MWMtNGExZS05ZWFmLWIyMGZiNDEwNmZmMVwvZGZxejE4by1iY2RjYjdkNC0wNDNmLTQ2ZDQtYTJlYy0zYjNiZTQyNjEzZmQucG5nIiwid2lkdGgiOiI8PTE2MDkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.qErbXmzllFpZ8v4npa-davZXgOF4Kswp5ay_TPP38p4" ch-number="616",Nickelodeon ASIA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
@@ -1364,16 +1378,10 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 http://38.191.90.2:8000/play/a00j
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Discovery Family" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/DF_3D_Logo_Yellow.png" group-title="KIDS NETWORKS",Discovery Family
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: BABY TV" tvg-logo="http://apkip.tv/logos/UK/BabyTV.uk.png" group-title="KIDS NETWORKS",UK: BABY TV
-http://apkandweb.ddns.net/6377635294/6663568605/928137
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: DISNEY XD" tvg-logo="http://apkip.tv/logos/USA/DisneyXD.us.png" group-title="KIDS NETWORKS",UK: DISNEY XD
-http://apkandweb.ddns.net/6377635294/6663568605/658
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: NICK JR" tvg-logo="http://apkip.tv/logos/UK/NickJr.uk.png" group-title="KIDS NETWORKS",UK: NICK JR
-http://apkandweb.ddns.net/6377635294/6663568605/659
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: NICK JR TOO" tvg-logo="http://apkip.tv/logos/UK/NickJrToo.uk.png" group-title="KIDS NETWORKS",UK: NICK JR TOO
 http://apkandweb.ddns.net/6377635294/6663568605/660
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: NICKELODEON" tvg-logo="http://apkip.tv/logos/UK/Nickelodeon.uk.png" group-title="KIDS NETWORKS",UK: NICKELODEON
-http://apkandweb.ddns.net/6377635294/6663568605/661
+#EXTINF:-1 tvg-id="Nick.Music.(NICM).us" tvg-name="Nick Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1280px-NickMusic.svg.png", Nick Music
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: NICKTOONS" tvg-logo="http://apkip.tv/logos/UK/Nicktoons.uk.png" group-title="KIDS NETWORKS",UK: NICKTOONS
 http://apkandweb.ddns.net/6377635294/6663568605/662
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: BABY FIRST TV" tvg-logo="http://apkip.tv/logos/USA/BabyFirst.us.png" group-title="KIDS NETWORKS",USA: BABY FIRST TV
@@ -1384,13 +1392,28 @@ http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/102465.ts
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CARTOON NETWORK" tvg-logo="http://apkip.tv/logos/USA/CartoonNetwork.us.png" group-title="KIDS NETWORKS",USA: CARTOON NETWORK
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon.Net.Hd" group-title="KIDS NETWORKS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef57f7f3e8cf0efe4f3d5772a7cbb35:0ac6d617095fbe0ca7f4c9ae72fa5f51
+https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY CHANNEL" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="KIDS NETWORKS",DISNEY CHANNEL
-http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY JR" tvg-logo="http://apkip.tv/logos/USA/DisneyJunior.us.png" group-title="KIDS NETWORKS",USA: DISNEY JR
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY JR" tvg-logo="http://apkip.tv/logos/USA/DisneyJunior.us.png" group-title="KIDS NETWORKS",USA: DISNEY JR.
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="KIDS NETWORKS",DISNEY JR. 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca
+https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY XD" tvg-logo="http://apkip.tv/logos/USA/DisneyXD.us.png" group-title="KIDS NETWORKS",USA: DISNEY XD
-http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NICK JR" tvg-logo="http://apkip.tv/logos/USA/NickJr.us.png" group-title="KIDS NETWORKS",NICK JR
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
+https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NICK JR" tvg-logo="http://apkip.tv/logos/USA/NickJr.us.png" group-title="KIDS NETWORKS",NICK JR
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NICKELODEON" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/cb/Nickelodeon_2023_logo.png/revision/latest?cb=20240120183150" group-title="KIDS NETWORKS",USA: NICKELODEON
 http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
@@ -1402,6 +1425,11 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://fl4.moveonjoy.com/Teen_Nick/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: UNIVERSAL KIDS" tvg-logo="http://apkip.tv/logos/USA/UniversalKids.us.png" group-title="KIDS NETWORKS",USA: UNIVERSAL KIDS
 http://apkandweb.ddns.net/6377635294/6663568605/1020618
+#EXTINF:-1 tvg-id="YTV.(East).(YTV).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png" tvg-name="Tv channel name" group-title="KIDS NETWORKS",YTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
+https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZOOMOO HD" tvg-logo="https://i.imgur.com/pUBoxm5.png" group-title="KIDS NETWORKS",ZOOMOO HD
 https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
 
@@ -1438,6 +1466,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
+#EXTINF:-1 tvg-id="wavve|C4401" tvg-name="ANIBOX" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/135.png" group-title="KIDS EXCLUSIVES",Anibox
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4401&q=SD&apikey=5MY50EII66
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qmFz6HlcmwsnM9+DiTSBfw", "kid":"EtmlTkWNMZdWMr4XqNrAEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="100.astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Astro_Home_of_Kids.png/revision/latest?cb=20241201142610" group-title="KIDS EXCLUSIVES",Home Of Kids     
@@ -1447,6 +1478,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5178/default_primary.mpd
 https://jmp2.uk/sam-USAJ3504502A.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AnimeTv" tvg-logo="https://i.ibb.co/Svh3sWH/color-Logo-PNG.png" group-title="KIDS EXCLUSIVES",AnimeTv
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="KIDS EXCLUSIVES" tvg-id="RedboxToonGoggles",Toon Goggles
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7tsxSCW/Toonz-Kids-removebg-preview.png" group-title="KIDS EXCLUSIVES", TOONZKIDS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
@@ -1686,8 +1720,11 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/EBONY.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HerSphereByLionsgate.png" group-logo="" group-title="Movie Central",HerSphere by Lionsgate
 https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
 
-#EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphereByLionsgate.png" group-logo="" group-title="Movie Central",MovieSphere By Lionsgate
-https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
+#EXTINF:-1 tvg-id="USBD17000117B" tvg-logo=""https://raw.githubusercontent.com/erehhh123/iptv/refs/heads/main/208.png" group-title="Movie Central",MovieSphere By Lionsgate
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020283ab8e5d2f36f3652f7c2338c57:b02e021c2d46c4ecf4214e239eb4b0e4
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc137ld1mh)/master_2min.mpd
+
 
 #EXTINF:-1 tvg-id="USBD1200007FE" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/OuterSphereByLionsgate.png" group-logo="" group-title="Movie Central",OuterSphere by Lionsgate
 https://raw.githubusercontent.com/mystery75/m3u8/main/OUTERSPHERE.m3u8
@@ -2215,28 +2252,28 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-4.png" group-title="PREMIUM SPORTS", TNT SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="PREMIUM SPORTS", TNT SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="PREMIUM SPORTS", TNT SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="PREMIUM SPORTS", TNT SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="PREMIUM SPORTS", TNT SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="PREMIUM SPORTS", TNT SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 group-title="PREMIUM SPORTS", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/TNT_Sports_4_%282023%29.svg/revision/latest?cb=20230704072048",TNT Sports 4 
+#EXTINF:-1 group-title="PREMIUM SPORTS", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png",TNT Sports 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
