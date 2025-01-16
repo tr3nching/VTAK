@@ -142,8 +142,14 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 #EXTINF:-1 tvg-id="" ch-number="" group-title="Local" tvg-logo="https://static.wixstatic.com/media/3f6f0d_ab7b0ed79ba7476cb9522381586d4d0f~mv2.png/v1/fill/w_529,h_270,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/JungoPinoy_BrandLogo.png",Jungo Pinoy TV
 https://jungotvstream-chanall.akamaized.net/jungotv/jungopinoytv/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Front-row-channel_logo.png" group-title="Local",Front Row Channel
+https://jungotvstream-chanall.akamaized.net/jungotv/frontrow/stream.m3u8
+
 #EXTINF:-1 tvg-id="" ch-number="" group-title="Local" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/07/Scream_Flix_3D_Logo_2022.png/revision/latest?cb=20220623022336",ScreamFlix
 https://jungotvstream-chanall.akamaized.net/jungotv/screamflix/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/CGe0mBh.png" group-title="Local",Combat Go
+https://jungotvstream-chanall.akamaized.net/jungotv/combatgo/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Kapamilya_Channel_hd_flat_latest.png/revision/latest?cb=20240502124554" group-title="Local",Kapamilya Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -176,6 +182,12 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001154/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vegasplus.us/wp-content/uploads/2023/10/filamtv.png" group-title="Local",FilAm TV
+https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vegasplus.us/wp-content/uploads/2023/10/mindanow_portrait.png" group-title="Local",MindaNOW Network
+https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
 
 #EXTINF:-31 tvg-logo="https://i.imgur.com/NOBlLVC.png" group-title="Local",Pinoy Xtreme
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
