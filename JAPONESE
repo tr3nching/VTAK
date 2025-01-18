@@ -943,150 +943,150 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi10.mpd
 
 #EXTINF:-1 group-logo="https://allvectorlogo.com/img/2016/03/hd-radio-logo.png"
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",Scream Radio
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/qMT9svr/Scream-Radio-Blog-removebg-preview.png" group-title="PH RADIO CHANNELS",Scream Radio
 https://tunein.cdnstream1.com/3520_96.aac/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",ESPN RADIO
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://irp.cdn-website.com/d694cac5/dms3rep/multi/ESPN_Radio_logo.svg-300x134.png" group-title="PH RADIO CHANNELS",ESPN RADIO
 https://stream-153.zeno.fm/c3z135w8zxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjM3oxMzV3OHp4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik5ZVldMZ29fUm8tc0RBOFpic2NKVXciLCJpYXQiOjE3MzEzNDgxNzYsImV4cCI6MTczMTM0ODIzNn0.qk_2PTO1UPCyvI4_E-YaQ-deEdkHuV7og34UVRYPgSk
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",Clubmix
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4PxKDPw/6260074aefe75-xs-removebg-preview.png" group-title="PH RADIO CHANNELS",Clubmix
 https://stream.zeno.fm/d42hdvx96zhvv
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",Emotions
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Emotion_98_3.svg/revision/latest?cb=20131010182236" group-title="PH RADIO CHANNELS",Emotions
 https://stream.zeno.fm/03v7z8edgphvv
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",Hot Hip-Hop N R&B
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/qnXYNK8/logog-removebg-preview.png" group-title="PH RADIO CHANNELS",Hot Hip-Hop N R&B
 https://stream.zeno.fm/qrhuqbnm208uv
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",iMix
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/VCNgLNT/uxvj9jkz3djc-removebg-preview.png" group-title="PH RADIO CHANNELS",iMix
 https://stream.zeno.fm/xnuifxjgpomvv
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",Rage Music Philippines
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.abc.net.au/core-assets/rage/rage-logo.png" group-title="PH RADIO CHANNELS",Rage Music Philippines
 https://stream.zeno.fm/yu9dryfs7x8uv
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",Vibe Radio
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Vibe_Radio_logo_alt.png/revision/latest?cb=20240525113456" group-title="PH RADIO CHANNELS",Vibe Radio
 https://stream.zeno.fm/zf0ac4raqy8uv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14.3 Global Online Radio" tvg-logo="" group-title="PH RADIO CHANNELS",14.3 Global Online Radio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14.3 Global Online Radio" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/Global_Radio_2018.png/revision/latest?cb=20190812080107" group-title="PH RADIO CHANNELS",14.3 Global Online Radio
 http://65.108.124.70:8255/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="81.8 Beshfm – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",81.8 Beshfm – Manila – National Capital Region – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="81.8 Beshfm – Manila – National Capital Region – PH" tvg-logo="https://i.ibb.co/25GdDWL/b72914f1c332a946c3724b1d935c04df-removebg-preview.png" group-title="PH RADIO CHANNELS",81.8 Beshfm – Manila – National Capital Region – PH
 https://cast3.bntworxtv.com:8000/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="88.7 Love Music Radio – 88.7 FM – PH" tvg-logo="" group-title="PH RADIO CHANNELS",88.7 Love Music Radio – 88.7 FM – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="88.7 Love Music Radio – 88.7 FM – PH" tvg-logo="https://88.7lovemusicradio.net/images/site-images/logo.png" group-title="PH RADIO CHANNELS",88.7 Love Music Radio – 88.7 FM – PH
 http://radio.7lovemusicradio.net:8050/radio.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="89.1 One Heart FM radio" tvg-logo="" group-title="PH RADIO CHANNELS",89.1 One Heart FM radio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="89.1 One Heart FM radio" tvg-logo="https://i.ibb.co/HYZph4M/4a0607c8054b100b4cd933e439bfc25b-removebg-preview.png" group-title="PH RADIO CHANNELS",89.1 One Heart FM radio
 https://bnthosting.online/listen/one_heart_fm/radio.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="89.5 Brigada News FM - DXYM" tvg-logo="" group-title="PH RADIO CHANNELS",89.5 Brigada News FM - DXYM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="89.5 Brigada News FM - DXYM" tvg-logo="https://i.ibb.co/p1BJfTP/433c8577a46fbb605929afef973519f9-removebg-preview.png" group-title="PH RADIO CHANNELS",89.5 Brigada News FM - DXYM
 http://18.141.67.248:8000/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="90.7 Love Radio Manila" tvg-logo="https://i.imgur.com/4gS1pUO.png" group-title="PH RADIO CHANNELS",90.7 Love Radio Manila
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="90.7 Love Radio Manila" tvg-logo="https://4.bp.blogspot.com/-xycFu0vj5GY/TWR0TgodSkI/AAAAAAAABXM/Uql8iMCG5xw/s320/love+radio+manila.jpg" group-title="PH RADIO CHANNELS",90.7 Love Radio Manila
 https://boracayfm.stream.laut.fm/boracayfm
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="91.9 Radyo Natin - DWSG" tvg-logo="" group-title="PH RADIO CHANNELS",91.9 Radyo Natin - DWSG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="91.9 Radyo Natin - DWSG" tvg-logo="https://static.wikia.nocookie.net/russel/images/a/a8/91.9_Radyo_Natin_Sorsogon_Logo_1997.png/revision/latest?cb=20180209013407" group-title="PH RADIO CHANNELS",91.9 Radyo Natin - Sorsogon
 http://stream.radyonatinfm.com:8010/dwsg
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="92.3 Easy Rock Iloilo – 92.3 FM – Iloilo City – Western Visayas – PH" tvg-logo="" group-title="PH RADIO CHANNELS",92.3 Easy Rock Iloilo – 92.3 FM – Iloilo City – Western Visayas – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="92.3 Easy Rock Iloilo – 92.3 FM – Iloilo City – Western Visayas – PH" tvg-logo="https://easyrockiloilo.com/static/img/logo-2021.png" group-title="PH RADIO CHANNELS",92.3 Easy Rock Iloilo – 92.3 FM – Iloilo City – Western Visayas – PH
 https://easyrockiloilo.radioca.st/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="93.5 Easy Rock Boracay – 93.5 FM – Kalibo Town – Western Visayas – PH" tvg-logo="" group-title="PH RADIO CHANNELS",93.5 Easy Rock Boracay – 93.5 FM – Kalibo Town – Western Visayas – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="93.5 Easy Rock Boracay – 93.5 FM – Kalibo Town – Western Visayas – PH" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tHpWZGg7MD.png" group-title="PH RADIO CHANNELS",93.5 Easy Rock Boracay – 93.5 FM – Kalibo Town – Western Visayas – PH
 https://easyrockboracay.radioca.st/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="95.3 Love Radio - DWKS" tvg-logo="https://i.imgur.com/4gS1pUO.png" group-title="PH RADIO CHANNELS",95.3 Love Radio - DWKS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="95.3 Love Radio - DWKS" tvg-logo="https://radio-stations-philippines.com/storage/radios/23892/65849/conversions/RqlVNs72uEdpHXzjkP9MX1H4UXhUes-metaZGlzcGxheSAoMykuanBn--lg.webp" group-title="PH RADIO CHANNELS",95.3 Love Radio - DWKS
 https://loveradiodaet.radioca.st/stream/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="96.9 Easy Rock Cagayan de Oro - DXKS" tvg-logo="" group-title="PH RADIO CHANNELS",96.9 Easy Rock Cagayan de Oro - DXKS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="96.9 Easy Rock Cagayan de Oro - DXKS" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DHGePFExsQ.png" group-title="PH RADIO CHANNELS",96.9 Easy Rock Cagayan de Oro - DXKS
 http://easyrockcagayan.radioca.st:9720/stream/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="97.1 Solid Love FM – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",97.1 Solid Love FM – Manila – National Capital Region – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="97.1 Solid Love FM – Manila – National Capital Region – PH" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/133/971-solid-love-fm.bb6c7ec3.png" group-title="PH RADIO CHANNELS",97.1 Solid Love FM – Manila – National Capital Region – PH
 https://azura.971solidlovefm.com/radio/8120/radio.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="97.5 Love Radio Iloilo" tvg-logo="https://i.imgur.com/4gS1pUO.png" group-title="PH RADIO CHANNELS",97.5 Love Radio Iloilo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="97.5 Love Radio Iloilo" tvg-logo="https://api.loveradio.com.ph/v1/media/display?bucket=static.loveradio.com.ph&key=stations/2023/8/MzjhA15gaPWuUsgayZahD.jpeg" group-title="PH RADIO CHANNELS",97.5 Love Radio Iloilo
 http://loveradio.live24.gr/loveradio-1000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="97.7 Love Radio Tarlac – DZLT" tvg-logo="https://i.imgur.com/4gS1pUO.png" group-title="PH RADIO CHANNELS",97.7 Love Radio Tarlac – DZLT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="97.7 Love Radio Tarlac – DZLT" tvg-logo="https://api.loveradio.com.ph/v1/media/display?bucket=static.loveradio.com.ph&key=stations/2023/8/x-JZl59bbdfPRmymJILPQ.jpeg" group-title="PH RADIO CHANNELS",97.7 Love Radio Tarlac – DZLT
 http://loveradiotarlac.radioca.st
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="98.3 Love Radio Dagupan – 98.3 FM – Dagupan – Cagayan Valley – PH" tvg-logo="https://i.imgur.com/4gS1pUO.png" group-title="PH RADIO CHANNELS",98.3 Love Radio Dagupan – 98.3 FM – Dagupan – Cagayan Valley – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="98.3 Love Radio Dagupan – 98.3 FM – Dagupan – Cagayan Valley – PH" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4ec74Pvj8r.jpg" group-title="PH RADIO CHANNELS",98.3 Love Radio Dagupan – 98.3 FM – Dagupan – Cagayan Valley – PH
 https://loveradiodagupan.radioca.st/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="99.1 Love Radio Naga - DWYN" tvg-logo="https://i.imgur.com/4gS1pUO.png" group-title="PH RADIO CHANNELS",99.1 Love Radio Naga - DWYN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="99.1 Love Radio Naga - DWYN" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3z7q3v3zcdnj.jpg" group-title="PH RADIO CHANNELS",99.1 Love Radio Naga - DWYN
 http://loveradionaga.radioca.st:8070/stream/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="99.3 Yes The Best - DXFE-FM" tvg-logo="" group-title="PH RADIO CHANNELS",99.3 Yes The Best - DXFE-FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="99.3 Yes The Best - DXFE-FM" tvg-logo="https://i.ibb.co/bLbMchv/38766-993yesthebestdxfefm-removebg-preview.png" group-title="PH RADIO CHANNELS",99.3 Yes The Best - DXFE-FM
 http://yesfmiligan.radioca.st:8181/stream/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="99.9 Star Light FM – 99.9 FM – Antipolo – Western Visayas – PH" tvg-logo="" group-title="PH RADIO CHANNELS",99.9 Star Light FM – 99.9 FM – Antipolo – Western Visayas – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="99.9 Star Light FM – 99.9 FM – Antipolo – Western Visayas – PH" tvg-logo="https://static-media.streema.com/media/cache/a7/af/a7afec9c192142176a6065db613d2c7d.jpg" group-title="PH RADIO CHANNELS",99.9 Star Light FM – 99.9 FM – Antipolo – Western Visayas – PH
 https://cast.bntworxtv.com/radio/8010/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="100.7 Love Radio Lucena – 100.7 FM – Lucena City – Calabarzon – PH" tvg-logo="https://i.imgur.com/4gS1pUO.png" group-title="PH RADIO CHANNELS",100.7 Love Radio Lucena – 100.7 FM – Lucena City – Calabarzon – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="100.7 Love Radio Lucena – 100.7 FM – Lucena City – Calabarzon – PH" tvg-logo="https://api.loveradio.com.ph/v1/media/display?bucket=static.loveradio.com.ph&key=stations/2023/8/NExp4Adm7xdJIXZitCon8.jpeg" group-title="PH RADIO CHANNELS",100.7 Love Radio Lucena – 100.7 FM – Lucena City – Calabarzon – PH
 https://loveradiolucena.radioca.st/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="101.5 Love Radio – DXWK" tvg-logo="https://i.imgur.com/4gS1pUO.png" group-title="PH RADIO CHANNELS",101.5 Love Radio – DXWK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="101.5 Love Radio – DXWK" tvg-logo="https://static-media.streema.com/media/cache/0b/61/0b610c0e03d170d275ad2eb02fbf2a41.jpg" group-title="PH RADIO CHANNELS",101.5 Love Radio – DXWK
 http://loveradiogensan.radioca.st:8021/stream/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="101.7 Love Radio La Union – 101.7 FM – La Union – Davao – PH" tvg-logo="https://i.imgur.com/4gS1pUO.png" group-title="PH RADIO CHANNELS",101.7 Love Radio La Union – 101.7 FM – La Union – Davao – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="101.7 Love Radio La Union – 101.7 FM – La Union – Davao – PH" tvg-logo="https://api.loveradio.com.ph/v1/media/display?bucket=static.loveradio.com.ph&key=stations/2023/8/RL8u6sq8nwlzAvNfMy0Nq.jpeg" group-title="PH RADIO CHANNELS",101.7 Love Radio La Union – 101.7 FM – La Union – Davao – PH
 https://loveradiolaunion.radioca.st/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="101.7 Your Love FM radio" tvg-logo="" group-title="PH RADIO CHANNELS",101.7 Your Love FM radio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="101.7 Your Love FM radio" tvg-logo="https://www.yourlovefm1017.com/images/YourLoveFMLogo.png" group-title="PH RADIO CHANNELS",101.7 Your Love FM radio
 https://chloreign.com/listen/sanibpwersa/radio.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="102.7 YES FM Zamboanga" tvg-logo="" group-title="PH RADIO CHANNELS",102.7 YES FM Zamboanga
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="102.7 YES FM Zamboanga" tvg-logo=https://i.ibb.co/XskN1LM/th-1-removebg-preview.png"" group-title="PH RADIO CHANNELS",102.7 YES FM Zamboanga
 http://yesfmzamboanga.radioca.st/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="102.7 Yes The Best - DXHT" tvg-logo="" group-title="PH RADIO CHANNELS",102.7 Yes The Best - DXHT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="102.7 Yes The Best - DXHT" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/131531.v1.png" group-title="PH RADIO CHANNELS",102.7 Yes The Best - DXHT
 http://yesfmzamboanga.radioca.st:8313/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1047 SCAF FM" tvg-logo="" group-title="PH RADIO CHANNELS",1047 SCAF FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1047 SCAF FM" tvg-logo="https://104.7scaffm.net/images/site_images/logo.png" group-title="PH RADIO CHANNELS",1047 SCAF FM
 http://radio1.reans.net:8000/radio.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="104.7 Scaf FM – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",104.7 Scaf FM – Manila – National Capital Region – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="104.7 Scaf FM – Manila – National Capital Region – PH" tvg-logo="https://104.7scaffm.net/images/site_images/logo.png" group-title="PH RADIO CHANNELS",104.7 Scaf FM – Manila – National Capital Region – PH
 https://radio1.reans.net/radio/8000/radio.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="104.7 Yes The Best - DXYR" tvg-logo="" group-title="PH RADIO CHANNELS",104.7 Yes The Best - DXYR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="104.7 Yes The Best - DXYR" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/131535.v1.png" group-title="PH RADIO CHANNELS",104.7 Yes The Best - DXYR
 http://yesfmcdo.radioca.st:8040/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="105.1 Easy Rock Davao - DXYS" tvg-logo="" group-title="PH RADIO CHANNELS",105.1 Easy Rock Davao - DXYS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="105.1 Easy Rock Davao - DXYS" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/j32PnqrN5L.jpg" group-title="PH RADIO CHANNELS",105.1 Easy Rock Davao - DXYS
 http://easyrockdavao.radioca.st:8285/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="105.1 Easy Rock Davao – 105.1 FM – Davao City – Davao – PH" tvg-logo="" group-title="PH RADIO CHANNELS",105.1 Easy Rock Davao – 105.1 FM – Davao City – Davao – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="105.1 Easy Rock Davao – 105.1 FM – Davao City – Davao – PH" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/j32PnqrN5L.jpg" group-title="PH RADIO CHANNELS",105.1 Easy Rock Davao – 105.1 FM – Davao City – Davao – PH
 https://easyrockdavao.radioca.st/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="105.6 Wings of Love FM – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",105.6 Wings of Love FM – Manila – National Capital Region – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="105.6 Wings of Love FM – Manila – National Capital Region – PH" tvg-logo="https://i.ibb.co/bQ6HqZY/hfqxtnbaqe-removebg-preview.png" group-title="PH RADIO CHANNELS",105.6 Wings of Love FM – Manila – National Capital Region – PH
 https://cast3.bntworxtv.com/listen/wings_of_love_fm/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="105.7 Love Radio Roxas – DYML" tvg-logo="https://i.imgur.com/4gS1pUO.png" group-title="PH RADIO CHANNELS",105.7 Love Radio Roxas – DYML
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="105.7 Love Radio Roxas – DYML" tvg-logo="https://static-media.streema.com/media/cache/85/50/8550bd3dace5125f70548ca47c3cec52.jpg" group-title="PH RADIO CHANNELS",105.7 Love Radio Roxas – DYML
 http://loveradioroxas.radioca.st
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.imgur.com/4gS1pUO.png" group-title="PH RADIO CHANNELS", LOVE RADIO MANILA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://4.bp.blogspot.com/_p_3j1v2ya9w/TLd2A9LKD-I/AAAAAAAAAkA/E7jMQ2Vg2uI/w1200-h630-p-k-nu/love-radio-manila.jpg" group-title="PH RADIO CHANNELS", LOVE RADIO MANILA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=645a11b3343f3c5c6b90c532
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOVERADIO_MNL.mp3
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="105.8 Loving Arms FM – 105.8 FM – PH" tvg-logo="" group-title="PH RADIO CHANNELS",105.8 Loving Arms FM – 105.8 FM – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="105.8 Loving Arms FM – 105.8 FM – PH" tvg-logo="https://i.ibb.co/Hq79P4v/441340170-1143641943750389-5939092020628544575-n-removebg-preview.png" group-title="PH RADIO CHANNELS",105.8 Loving Arms FM – 105.8 FM – PH
 https://cast3.bntworxtv.com/listen/sonata_fm/radio.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="106.7 Radyo Natin Agoo – 106.7 FM – Agoo – Ilocos – PH" tvg-logo="" group-title="PH RADIO CHANNELS",106.7 Radyo Natin Agoo – 106.7 FM – Agoo – Ilocos – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="106.7 Radyo Natin Agoo – 106.7 FM – Agoo – Ilocos – PH" tvg-logo="https://radyonatinfm.com/wp-content/uploads/2023/01/480-RN-AGOO-106.7-V2.png" group-title="PH RADIO CHANNELS",106.7 Radyo Natin Agoo – 106.7 FM – Agoo – Ilocos – PH
 https://pinas.radyonatinfm.com/listen/dwis/agoo
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="911Fm radio" tvg-logo="" group-title="PH RADIO CHANNELS",911Fm radio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="911Fm radio" tvg-logo="https://play-lh.googleusercontent.com/pfCVz_EYSF3RlBU9XKhdDQSLrfiycx99iwsQDXpGWIMMaieq-R3FTVgehFJyQFhxUl4" group-title="PH RADIO CHANNELS",91.1Fm radio
 http://65.108.120.179:7745/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="997 My Friends FM" tvg-logo="" group-title="PH RADIO CHANNELS",997 My Friends FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="997 My Friends FM" tvg-logo="https://i.ibb.co/1X0rbnK/v7ngxfrxecqt-removebg-preview.png" group-title="PH RADIO CHANNELS",99.7 My Friends FM
 http://trappist.shoutca.st:8171/live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Achieve FM – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Achieve FM – Manila – National Capital Region – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Achieve FM – Manila – National Capital Region – PH" tvg-logo="https://i.ibb.co/HVncd4x/316-achieve-fm-394379ff-removebg-preview.png" group-title="PH RADIO CHANNELS",Achieve FM – Manila – National Capital Region – PH
 http://radio.achievefm.com:8200/radio.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFK Radio Rocks – Cebu City – Central Visayas – PH" tvg-logo="" group-title="PH RADIO CHANNELS",AFK Radio Rocks – Cebu City – Central Visayas – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFK Radio Rocks – Cebu City – Central Visayas – PH" tvg-logo="https://i.ibb.co/VCCMdp4/qmzmfvaedq4w-removebg-preview.png" group-title="PH RADIO CHANNELS",AFK Radio Rocks – Cebu City – Central Visayas – PH
 http://107.152.38.38:8000/radio.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Angels FM – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Angels FM – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Angels FM – PH" tvg-logo="https://i.ibb.co/QrVqW8X/GZBz2x-SKm8-removebg-preview.png" group-title="PH RADIO CHANNELS",Angels FM – PH
 http://cast2.my-control-panel.com:8557/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anime Alliance Online Radio" tvg-logo="" group-title="PH RADIO CHANNELS",Anime Alliance Online Radio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anime Alliance Online Radio" tvg-logo="https://i.ibb.co/FzMPC8M/s165089g-removebg-preview.png" group-title="PH RADIO CHANNELS",Anime Alliance Online Radio
 https://s3.citrus3.com:8010/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atlantis" tvg-logo="" group-title="PH RADIO CHANNELS",Atlantis
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atlantis" tvg-logo="https://i.iheart.com/v3/re/new_assets/64fcfecb-3d98-4ef0-9282-8bbe33535d55?ops=fit(960%2C960)%2Cresize(0%2C390)" group-title="PH RADIO CHANNELS",Atlantis Radio
 https://us2.amfmph.com:8080/stream
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bespren Radio" tvg-logo="" group-title="PH RADIO CHANNELS",Bespren Radio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bespren Radio" tvg-logo="https://www.besprenradio.com/wp-content/uploads/2021/02/bespren-header-image.png" group-title="PH RADIO CHANNELS",Bespren Radio
 http://streamnavs.net:8089/live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boracay FM" tvg-logo="" group-title="PH RADIO CHANNELS",Boracay FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boracay FM" tvg-logo="https://cdn-profiles.tunein.com/s318190/images/logog.jpg?t=164" group-title="PH RADIO CHANNELS",Boracay FM
 https://boracayfm.stream.laut.fm/boracayfm?ref=web-app&ampt302=2019-04-09_12-22-23&ampuuid=f6d43b18-d040-49a3-b7af-4ca2f177541a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boracay FM laut.fm" tvg-logo="" group-title="PH RADIO CHANNELS",Boracay FM laut.fm
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boracay FM laut.fm" tvg-logo="https://cdn-profiles.tunein.com/s318190/images/logog.jpg?t=164" group-title="PH RADIO CHANNELS",Boracay FM laut.fm
 http://boracayfm.stream.laut.fm/boracayfm?ref=vtuner
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Breezylyn FM" tvg-logo="" group-title="PH RADIO CHANNELS",Breezylyn FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Breezylyn FM" tvg-logo="https://breezylyn.com/static/media/logo.5d3707b41fea0da08f5a.png" group-title="PH RADIO CHANNELS",Breezylyn FM
 http://178.netromedia.com:8000/BreezeFM
-#EXTINF:-1 tvg-id="brgyls1-x" tvg-name="BRGY LS 97.1" tvg-logo="https://i.imgur.com/Ol7fgC0.png" group-title="PH RADIO CHANNELS",BRGY LS 97.1
+#EXTINF:-1 tvg-id="brgyls1-x" tvg-name="BRGY LS 97.1" tvg-logo="https://mytunein.com/images/logos/barangayls971fm.jpg" group-title="PH RADIO CHANNELS",BRGY LS 97.1
 https://magic.radioca.st/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brigada News FM Gensan – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Brigada News FM Gensan – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brigada News FM Gensan – PH" tvg-logo="https://gensanblog.com/wp-content/uploads/2011/09/brigada-news.png" group-title="PH RADIO CHANNELS",Brigada News FM Gensan – PH
 http://18.141.67.248:8000/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cathedral of Praise Bible Radio - DZBR" tvg-logo="" group-title="PH RADIO CHANNELS",Cathedral of Praise Bible Radio - DZBR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cathedral of Praise Bible Radio - DZBR" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/6e/de/10/6ede10fc-6eb9-1d36-05ca-ea6c6f1ee3e1/source/512x512bb.jpg" group-title="PH RADIO CHANNELS",Cathedral of Praise Bible Radio - DZBR
 http://stream.radio.co/se9de95c10/listen
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHRK-DB Manila (HD) – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",CHRK-DB Manila (HD) – Manila – National Capital Region – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHRK-DB Manila (HD) – Manila – National Capital Region – PH" tvg-logo=""https://static2.mytuner.mobi/media/tvos_radios/gETvE2D4LM.jpg group-title="PH RADIO CHANNELS",CHRK-DB Manila (HD) – Manila – National Capital Region – PH
 http://cheetah.streemlion.com:1730/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COOL FM 90.1" tvg-logo="" group-title="PH RADIO CHANNELS",COOL FM 90.1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COOL FM 90.1" tvg-logo="https://www.radioplayeruk.com/img/logs/coolfm.png" group-title="PH RADIO CHANNELS",COOL FM 90.1
 http://equinox.shoutca.st:8938/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cool radio" tvg-logo="" group-title="PH RADIO CHANNELS",Cool radio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cool radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s115864g.png" group-title="PH RADIO CHANNELS",Cool radio
 https://coolfmhits.radioca.st/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coolfm90.1" tvg-logo="" group-title="PH RADIO CHANNELS",Coolfm90.1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coolfm90.1" tvg-logo="https://www.radioplayeruk.com/img/logs/coolfm.png" group-title="PH RADIO CHANNELS",Coolfm90.1
 https://streams.radio.co/s1317e9f68/listen?type=.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CoolFm Hits" tvg-logo="" group-title="PH RADIO CHANNELS",CoolFm Hits
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CoolFm Hits" tvg-logo="https://cdn-profiles.tunein.com/s120817/images/logog.png" group-title="PH RADIO CHANNELS",CoolFm Hits
 http://equinox.shoutca.st:8938
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coolfm Rock" tvg-logo="" group-title="PH RADIO CHANNELS",Coolfm Rock
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coolfm Rock" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rGJbYedbem.jpg" group-title="PH RADIO CHANNELS",Coolfm Rock
 https://mediagw.e-tiger.net/stream/zc10
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crossover" tvg-logo="" group-title="PH RADIO CHANNELS",Crossover
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crossover" tvg-logo="https://www.pinoygrandradio.com/metro-manila/fm/logos/crossover-fm-105.1-dwbm-logo.jpg" group-title="PH RADIO CHANNELS",Crossover
 https://streams.radio.co/s1317e9f68/listen
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crossover Radio Online" tvg-logo="" group-title="PH RADIO CHANNELS",Crossover Radio Online
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crossover Radio Online" tvg-logo="https://alchetron.com/cdn/dzbm-5762981f-3b17-4c35-9078-b34473b2e92-resize-750.jpg" group-title="PH RADIO CHANNELS",Crossover Radio Online
 http://streams.radio.co/s1317e9f68/listen
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crossover Radio Online – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Crossover Radio Online – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crossover Radio Online – PH" tvg-logo="https://png.pngitem.com/pimgs/s/547-5475503_file-crossover-fm-svg-wikimedia-commons-dwbm-fm.png" group-title="PH RADIO CHANNELS",Crossover Radio Online – PH
 https://streams.radio.co/s1317e9f68/low?type=.aac
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CyberPinoy Radio" tvg-logo="" group-title="PH RADIO CHANNELS",CyberPinoy Radio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CyberPinoy Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s96966d.png" group-title="PH RADIO CHANNELS",CyberPinoy Radio
 https://securestreams.autopo.st:1215/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CyberPinoy Radio – Pinugay – Calabarzon – PH" tvg-logo="" group-title="PH RADIO CHANNELS",CyberPinoy Radio – Pinugay – Calabarzon – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CyberPinoy Radio – Pinugay – Calabarzon – PH" tvg-logo="https://cyberpinoyradio.net/wp-content/uploads/2023/05/100-logo2.png" group-title="PH RADIO CHANNELS",CyberPinoy Radio – Pinugay – Calabarzon – PH
 https://securestreams.autopo.st:1215
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dance Radio Philippines" tvg-logo="" group-title="PH RADIO CHANNELS",Dance Radio Philippines
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dance Radio Philippines" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2019/10/dance-radio-france.jpg" group-title="PH RADIO CHANNELS",Dance Radio Philippines
 http://us1.amfmph.com:8518/autodj
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Destiny9911-fm" tvg-logo="" group-title="PH RADIO CHANNELS",Destiny9911-fm
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Destiny9911-fm" tvg-logo="https://i.ibb.co/g3H7zG9/dhudbqugyyfl-removebg-preview.png" group-title="PH RADIO CHANNELS",Destiny9911-fm
 http://cast3.bntworxtv.com:8020/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Destiny 9911 FM – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Destiny 9911 FM – PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Destiny 9911 FM – PH" tvg-logo="https://i.ibb.co/g3H7zG9/dhudbqugyyfl-removebg-preview.png" group-title="PH RADIO CHANNELS",Destiny 9911 FM – PH
 https://cast3.bntworxtv.com:8020/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disco House Радио - RadioSpinner Listen live" tvg-logo="" group-title="PH RADIO CHANNELS",Disco House Радио - RadioSpinner Listen live
 https://live.radiospinner.com/disco-house-64
