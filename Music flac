@@ -2,3 +2,9 @@
 #KODIPROP:inputstream.adaptive.license_key=ab91ee347f3811eb97f78d54408284f3:a25afb10faf379e236dffe598e83b653
 #EXTINF:-1 tvg-id="allneedpag" tvg-name="All You Need is Pag-ibig" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1KPsz80Fqua6kCmJSJyCc1Tp66V.jpg" group-title=" 🎬 TFC MOVIES ",All You Need is Pag-ibig
 https://absvod.akamaized.net/c/2/m/ab91ee34-7f38-11eb-97f7-8d54408284f3.ism/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=021c51263ec511eca8622458550b00c0:f95fe0b2eddde24321921432a812fb49
+#EXTINF:-1 tvg-id="allneedpag" tvg-name="All You Need is Pag-ibig" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1KPsz80Fqua6kCmJSJyCc1Tp66V.jpg" group-title=" 🎬 TFC MOVIES ",Team Yey
+https://absvod.akamaized.net/c/2/m/021c5126-3ec5-11ec-a862-2458550b00c0.ism/manifest.mpd
