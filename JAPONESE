@@ -1379,7 +1379,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: METV TOONS" tvg-logo="https://i.imgur.com/SLCxTHi.png" group-title="KIDS NETWORKS",USA: MeTV Toons
-https://ln.run/5-ukg
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/951101.m3u8
 
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="KIDS NETWORKS",Retro Crush
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
@@ -1413,10 +1413,8 @@ http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 http://apkandweb.ddns.net/6377635294/6663568605/660
 #EXTINF:-1 tvg-id="Nick.Music.(NICM).us" tvg-name="Nick Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1280px-NickMusic.svg.png" group-title="KIDS NETWORKS",  Nick Music
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: NICKTOONS" tvg-logo="http://apkip.tv/logos/UK/Nicktoons.uk.png" group-title="KIDS NETWORKS",UK: NICKTOONS
-http://apkandweb.ddns.net/6377635294/6663568605/662
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: BABY FIRST TV" tvg-logo="http://apkip.tv/logos/USA/BabyFirst.us.png" group-title="KIDS NETWORKS",USA: BABY FIRST TV
-http://apkandweb.ddns.net/6377635294/6663568605/614786
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/71459.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: BABY TV" tvg-logo="http://apkip.tv/logos/USA/BabyTV.us.png" group-title="KIDS NETWORKS",USA: BABY TV
 http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/102465.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: BOOMERANG" tvg-logo="https://imgur.com/4b7CUYK.png" group-title="KIDS NETWORKS",USA: BOOMERANG
@@ -1455,12 +1453,14 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: TEEN NICK" tvg-logo="http://apkip.tv/logos/USA/TeenNick.us.png" group-title="KIDS NETWORKS",USA: TEEN NICK
 https://fl4.moveonjoy.com/Teen_Nick/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: UNIVERSAL KIDS" tvg-logo="http://apkip.tv/logos/USA/UniversalKids.us.png" group-title="KIDS NETWORKS",USA: UNIVERSAL KIDS
-http://apkandweb.ddns.net/6377635294/6663568605/1020618
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/71474.m3u8
 #EXTINF:-1 tvg-id="YTV.(East).(YTV).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png" tvg-name="Tv channel name" group-title="KIDS NETWORKS",YTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US - FILMRISE KIDS HD" tvg-logo="http://go4.pw/usa/Filmrise_Kids_HD.png" group-title="KIDS NETWORKS", FILMRISE KIDS 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/494710.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZOOMOO HD" tvg-logo="https://i.imgur.com/pUBoxm5.png" group-title="KIDS NETWORKS",ZOOMOO HD
 https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
 
@@ -1469,7 +1469,10 @@ https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-logo="https://fumcaustin.org/wp-content/uploads/2020/02/kids-club-1920-1080-1280x720.jpg"
 
 #EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="IN: Nick+ FHD" tvg-logo="https://i.ibb.co/5LjbnZX/462558817-1147525850278473-8257900980366747608-n-removebg-preview.png" group-title="KIDS EXCLUSIVES", Nick+ HD
-http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/96248.ts
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/510219.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="HINDI - CARTOON NETWORK" tvg-logo="http://go4.pw/ASIA/INDIAN/CARTOONNETWORK.png" group-title="KIDS EXCLUSIVES"Cartoon Network HD+
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/175131.m3u8
 
 #EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="IN: Nick+ FHD" tvg-logo="https://i.ibb.co/89TNXNj/maxresdefault-removebg-preview.png" group-title="KIDS EXCLUSIVES", Nick Jr. by Pluto TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
@@ -1484,7 +1487,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94
 https://linearjitp02-playback.astro.com.my:443/dash-wv/linear/5093/default_primary.mpd
 
 #EXTINF:-1 tvg-id="disneyinternationalhd.in" tvg-name="IN: DISNEY INTERNATIONAL (4K)" tvg-logo="https://i.imgur.com/WJOB5MA.png" group-title="KIDS EXCLUSIVES", Disney INTERNATIONAL HD
-http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/96284.ts
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/694181.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: DISNEY XD" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1696933461-.png" group-title="KIDS EXCLUSIVES",FUN PLANET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1786,10 +1789,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=https://
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Movie Central",Star Movies HD
-https://starshare.live:443/live/7382837374/5003958588/98842.m3u8
+http://egysatv.com:2095/live/hsaleh/090350/161833.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/CBRz0BK.png" group-title="Movie Central",Star Movies Select HD
-https://starshare.live:443/live/7382837374/5003958588/98843.m3u8
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/34687.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN TV FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png" group-title="Movie Central",RAKUTEN TV FAMILY
 https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
@@ -1819,7 +1822,7 @@ https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Movie Central",Sony Pix
-http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=14505&deviceMac=00:1A:79:A7:53:75
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020173.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png" group-title="Movie Central",Sony Movies
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
@@ -1924,13 +1927,13 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN: &FLIX (4K)." tvg-logo="https://i.imgur.com/SMukHlr.png" group-title="Movie Central", &FLIX HD
-http://watchindia.net:8880/live/63332/77616/2088.ts
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/808789.m3u8
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://i.imgur.com/QG3BDG1.png" group-title="Movie Central", &PRIVE HD
-http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/93644.ts
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/34717.m3u8
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://i.imgur.com/E1q4Kia.png" group-title="Movie Central",MN+ HD
-https://starshare.live:443/live/7382837374/5003958588/98847.m3u8
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/34699.m3u8
  
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.imgur.com/UmuJkVB.png" group-title="Movie Central",Pluto TV Spotlight
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
@@ -2085,32 +2088,32 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IN: DISCOVERY (4K)." tvg-logo="https://i.ibb.co/3ycBLXg/discovery-inc-removebg-preview.png" group-title="Animals, Nature & History", DISCOVERY HD
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1053614.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Carib (FLOW) Discovery Science (D)" tvg-logo="https://i.ibb.co/HGbRMkk/png-clipart-discovery-science-discovery-channel-investigation-discovery-logo-science-television-text.png" group-title="Animals, Nature & History", Discovery Science
-http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/906703.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Carib (FLOW) DISCOVERY TURBO (D)" tvg-logo="https://img3.wikia.nocookie.net/__cb20140810164321/logosfake/images/1/12/Discovery_Turbo_HD_2014.png" group-title="Animals, Nature & History", DISCOVERY TURBO 
-https://bit.ly/3AjCqJM
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1053616.m3u8
 
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: ANIMAL PLANET (4K)." tvg-logo="https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png" group-title="Animals, Nature & History", ANIMAL PLANET HD
-http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72168.m3u8
 
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IN: National GEO (4K)." tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Channel-Logo-2001-2005.png" group-title="Animals, Nature & History",National Geographic HD
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IN: National GEO (4K)." tvg-logo="http://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="Animals, Nature & History",National Geographic HD
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72220.m3u8
 
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN: NAT Geo Wild (4K)." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png" group-title="Animals, Nature & History", NAT Geo Wild HD
-http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN: NAT Geo Wild (4K)." tvg-logo="http://go4.pw/ASIA/INDIA/Nat_Geo_Wild.png" group-title="Animals, Nature & History", NAT Geo Wild HD
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72219.m3u8
 
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN: Sony BBC EARTH (4K)." tvg-logo="https://i.ibb.co/8rWc2JK/sony-bbc-earth-possible-future-logo-by-red2222222222-dedcdbh-fullview-removebg-preview.png" group-title="Animals, Nature & History", Sony BBC EARTH HD
-http://bit.ly/4f2VV8G
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/34690.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wild Planet" tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="Animals, Nature & History",Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/sJmBCv2/47c6b578126225-Y3-Jvc-Cwx-MTgw-LDky-Mywz-Nj-Is-MTE2-removebg-preview.png" group-title="Animals, Nature & History",HISTORY HD
-http://119.156.26.155:8000/play/a07a/index.m3u8
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/sJmBCv2/47c6b578126225-Y3-Jvc-Cwx-MTgw-LDky-Mywz-Nj-Is-MTE2-removebg-preview.png" group-title="Animals, Nature & History",HISTORY TV18 HD
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72200.m3u8
 
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/tYVXTKn/1adventure-Earth-1-removebg-preview-1.png" group-title="Animals, Nature & History", Adventure Earth
 https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
