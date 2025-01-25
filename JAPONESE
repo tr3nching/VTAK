@@ -222,7 +222,9 @@ http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDoma
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jeepney TV" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/0b/Jeepney_TV_3D_Logo_2015.png/revision/latest?cb=20230326142526" group-title="Local",Jeepney TV
-https://ott.studentsdemo.com/stream/phcathenatv/jeepneytv/master.m3u8?u=phc&p=952839dd924747ba61aac23a9311e8c8ff7013327d77fcf7df5067d0cea83fc4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema One" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="Local",Cinema One Global
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
