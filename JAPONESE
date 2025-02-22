@@ -1600,6 +1600,9 @@ https://jmp2.uk/sam-USBD50000048H.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD42000124T" tvg-id="USBD42000124T" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000124T_20240520T214759SQUARE.png" group-title="CARTOONS AND ANIMATIONS" tvg-chno="3636",Fireman Sam
 https://jmp2.uk/sam-USBD42000124T.m3u8
 
+#EXTINF:0 tvg-id="garfield-and-friends" tvg-logo="http://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="CARTOONS AND ANIMATIONS", Garfield and Friends
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e4fb31-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=637a7296-b203-42da-83fb-300e328143d5&userId=&serverSideAds=true
+
 #EXTINF:-1 channel-id="SamsungTVPlus-USBC44000072I" tvg-id="USBC44000072I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20240520T214801SQUARE.png" group-title="CARTOONS AND ANIMATIONS" tvg-chno="3654",HappyKids
 https://jmp2.uk/sam-USBC44000072I.m3u8
 
