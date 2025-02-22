@@ -289,11 +289,8 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
 #EXTINF:-1 tvg-id="401.astro" ch-number="401" group-title="Local" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 
 #EXTINF:-1 tvg-id="CINEMO!.ph" tvg-name="CineMo!" tvg-logo="https://i.ibb.co/y4q1ttt/cinemaworld-2-1.png" group-title="Local",CinemaWorld
@@ -620,13 +617,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
 #EXTINF:-1 tvg-id="396.astro" tvg-logo="https://i.imgur.com/Nd9gqA2.png" channel-number="1" group-title="Local", K+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 
 #EXTINF:-1 tvg-id="393.astro" ch-number="461" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="Local",ONE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 
 #EXTINF:-1 tvg-id="416.astro" tvg-logo="https://i.ibb.co/RNJ4Rcj/unnamed-removebg-preview.png" channel-number="1" group-title="Local", tvN Movies
