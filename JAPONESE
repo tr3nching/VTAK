@@ -1928,7 +1928,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="GALAXYPremium" tvg-logo="https://i.ibb.co/GW54sBm/Galaxy-Premium-1.pngg" group-logo="" group-title="Movie Central",Galaxy Premium HD
+#EXTINF:-1 tvg-id="GALAXYPremium" tvg-logo="https://i.ibb.co/GW54sBm/Galaxy-Premium-1.png" group-logo="" group-title="Movie Central",Galaxy Premium HD
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
 #EXTINF:-82 tvg-logo="https://i.imgur.com/B9m9J1Y.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movie Central",CINEMAX 2
