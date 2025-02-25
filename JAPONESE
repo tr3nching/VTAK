@@ -430,7 +430,9 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rock Entertainment" tvg-logo="https://i.imgur.com/PR9DbtR.png" group-title="Local",Rock Entertainment HD
-http://atg100.xyz:80/UL33K17/SYC4T9D/1064635
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.indihometv.com/atm/DASH//rock_entertainment/manifest.mpd
 
 #EXTINF:-1 tvg-id="701.astro" tvg-name="701.astro" group-title="Local" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" ch-number="701",AXN HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -440,7 +442,7 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/1064635
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" ch-number="411" group-title="Local" tvg-logo="https://i.imgur.com/VXmKNbB.png",Rock Action HD
-http://atg100.xyz:80/UL33K17/SYC4T9D/1064636
+https://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 
 
 #EXTINF:-1 tvg-id="703.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="Local", Lifetime
@@ -1481,9 +1483,9 @@ https://linearjitp02-playback.astro.com.my:443/dash-wv/linear/5093/default_prima
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/694181.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: DISNEY XD" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1696933461-.png" group-title="KIDS EXCLUSIVES",FUN PLANET
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:-1 group-title="KIDS EXCLUSIVES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440",Horee!
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
