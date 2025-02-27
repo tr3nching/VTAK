@@ -2539,6 +2539,9 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #EXTINF:-1 tvg-id="motorvisiontv" tvg-name="MOTORVISION TV FHD" tvg-logo="https://i.imgur.com/KjfhXe2.png" group-title="PREMIUM SPORTS",MOTORVISION TV 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-motorvisiontv-dazn/stream.mpd?p=web
 
+#EXTINF:-1 channel-id="KRBC800015MH-kr" tvg-id="KRBC800015MH" tvg-chno="982" tvg-name="tvN SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TvN_Sports.svg/revision/latest?cb=20221230072211" group-title="PREMIUM SPORTS", tvN SPORTS
+http://bit.ly/3DbnXkI
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 #EXTINF:-1 tvg-id="daznpowersportsworld" tvg-name="POWERSPORTS WORLD" tvg-logo="https://i.imgur.com/38cXMZk.png" group-title="PREMIUM SPORTS",POWERSPORTS WORLD
