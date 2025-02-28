@@ -1603,8 +1603,10 @@ https://jmp2.uk/sam-USBC44000072I.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBB11000015Q" tvg-id="USBB11000015Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB11000015Q_20240903T175808SQUARE.png" group-title="CARTOONS AND ANIMATIONS" tvg-chno="3627",Moonbug HD
 https://jmp2.uk/sam-USBB11000015Q.m3u8
 
-#EXTINF:-1  tvg-id="ext" group-title="CARTOONS AND ANIMATIONS" tvg-logo="https://i.dlpng.com/static/png/6916208_preview.png",Spongebob
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="63f87d057533d80008ab9549-ca" tvg-id="63f87d057533d80008ab9549" tvg-chno="611" tvg-name="SpongeBob SquarePants" tvg-logo="https://images.pluto.tv/channels/63f87d057533d80008ab9549/colorLogoPNG.png" group-title="CARTOONS AND ANIMATIONS", SpongeBob SquarePants
+https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
+#EXTINF:-1 channel-id="656df599c0fc8800089c75ab-gb" tvg-id="656df599c0fc8800089c75ab" tvg-chno="458" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" group-title="CARTOONS AND ANIMATIONS", Avatar
+https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
 
 ````````PREMIUM MUSIC````````
 
@@ -2534,10 +2536,9 @@ http://bit.ly/3DbnXkI
 #EXTINF:-1 tvg-id="daznpowersportsworld" tvg-name="POWERSPORTS WORLD" tvg-logo="https://i.imgur.com/38cXMZk.png" group-title="PREMIUM SPORTS",POWERSPORTS WORLD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01267-triplebmedia-motoamerica-dash-dazn/stream.mpd?p=web|User-Agent=Roku/DVP-12.0/537.36
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+
 #EXTINF:-1 tvg-id="dazncombat" tvg-name="DAZN COMBAT" tvg-logo="https://i.ibb.co/zVn0tRT/image-removebg-preview.png" group-title="PREMIUM SPORTS",DAZN COMBAT
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd|User-Agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+https://jmp2.uk/plu-64df7ab4dfa32400083c517b.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
