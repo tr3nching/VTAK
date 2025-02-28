@@ -11,14 +11,14 @@ def modify_tvgid_with_channel_name(line):
         tvg_name = match.group(5).strip()      # The channel name after the last comma
         
         # Check if tvg-id is "", "(no tvg-id)", contains "astro", or contains "dummy"
-        if tvg_id_value == "" or tvg_id_value == "(no tvg-id)" or "samsung" in tvg_id_value.lower() or "usb" in tvg_id_value.lower() or "astro" in tvg_id_value.lower() or "dummy" in tvg_id_value.lower():
+        if tvg_id_value == "" or tvg_id_value == "(no tvg-id)" or "netflix" in tvg_id_value.lower() or "samsung" in tvg_id_value.lower() or "usb" in tvg_id_value.lower() or "astro" in tvg_id_value.lower() or "dummy" in tvg_id_value.lower():
             # Modify the tvg-id value to be the tvg_name
             modified_line = match.group(1) + tvg_name + match.group(3) + match.group(4) + tvg_name
             
             # Print the modified full line for debugging
             print(f"Replaced line: {modified_line}")
             
-            return modified_line + "\n"  # Add newline only after replacement
+            return modified_line + " "  # Add newline only after replacement
         else:
             # If tvg-id already has a valid value (doesn't match conditions), return the line unchanged
             return line

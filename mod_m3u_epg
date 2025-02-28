@@ -1,0 +1,59 @@
+import re
+
+# Function to modify tvg-id when tvg-id is "", "(no tvg-id)", contains "netflix", "samsung", "usb", "astro", "dummy", or missing
+def modify_tvgid_with_channel_name(line):
+    # Match lines starting with #EXTINF: and extract tvg-id value and the channel name after the last comma
+    match = re.match(r'(#EXTINF:.*?tvg-id=")(.*?)(".*?)(,.*?)([^,]+)$', line)
+    
+    # If the line matches the expected pattern, check tvg-id and modify it if needed
+    if match:
+        tvg_id_value = match.group(2).strip()  # The current tvg-id value
+        tvg_name = match.group(5).strip()      # The channel name after the last comma
+        
+        # Check if tvg-id is "", "(no tvg-id)", contains "netflix", "samsung", "usb", "astro", "dummy"
+        if tvg_id_value == "" or tvg_id_value == "(no tvg-id)" or "netflix" in tvg_id_value.lower() or \
+           "samsung" in tvg_id_value.lower() or "usb" in tvg_id_value.lower() or \
+           "astro" in tvg_id_value.lower() or "dummy" in tvg_id_value.lower():
+            # Modify the tvg-id value to be the tvg_name
+            modified_line = match.group(1) + tvg_name + match.group(3) + match.group(4) + tvg_name
+            
+            # Print the modified full line for debugging
+            print(f"Replaced line: {modified_line}")
+            
+            return modified_line + " "  # Replace the newline with a space instead of a newline
+        else:
+            # If tvg-id already has a valid value (doesn't match conditions), return the line unchanged
+            return line
+    else:
+        # If the line doesn't match the expected pattern, return it unchanged
+        return line
+
+# Function to process and modify lines
+def process_lines(lines):
+    modified_lines = []
+    for line in lines:
+        # Check if the line starts with #EXTM3U
+        if line.startswith('#EXTM3U'):
+            # Append the url-tvg="https://epg.pw/areas/ph/epg.xml" to the line
+            line = line.strip() + ' url-tvg="https://epg.pw/areas/ph/epg.xml"'
+        
+        # Remove the specific bevy URL 'https://www.bevy.be/bevyfiles/philippinespremium2.xml'
+        line = line.replace('https://www.bevy.be/bevyfiles/philippinespremium2.xml', '')
+        
+        # Modify the tvg-id with channel name if necessary
+        modified_lines.append(modify_tvgid_with_channel_name(line))
+    
+    return modified_lines
+
+# Read the input file (JAPONESE)
+with open('JAPONESE', 'r', encoding='utf-8') as infile:
+    lines = infile.readlines()
+
+# Process the lines
+modified_lines = process_lines(lines)
+
+# Join the modified lines with a space and write them to the output file (processed_JAPONESE.m3u)
+with open('trenching.m3u', 'w', encoding='utf-8') as outfile:
+    outfile.write(" ".join(modified_lines))  # Join with space instead of newline
+
+print("File processing complete. The modified content is saved in 'processed_JAPONESE.m3u'.")
