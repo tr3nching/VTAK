@@ -60,11 +60,6 @@ http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="PH - GMA NEWS TV | SD" tvg-logo="http://go4.pw/ASIA/gmanews.png" group-title="Local",GMA News TV
-http://atg100.xyz:80/UL33K17/SYC4T9D/72459
-#EXTINF:-1 tvg-id="gmalife.ph" tvg-name="PH - GMA LIFE TV SD" tvg-logo="http://go4.pw/PHILIPINES/GMA-Life.png" group-title="Local",GMA Life TV
-http://atg100.xyz:80/UL33K17/SYC4T9D/107982
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="Local", One News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -120,10 +115,6 @@ http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PH - KAPATID TV HD" tvg-logo="http://go4.pw/ASIA/kapatid.png" group-title="Local",Kapatid TV HD
-http://atg100.xyz:80/UL33K17/SYC4T9D/543294
 
 #EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us " tvg-logo="https://alltv.ph/wp-content/uploads/2024/06/LOGO-ALLTV-NEW.png" group-title="Local",ALLTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1373,7 +1364,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: METV TOONS" tvg-logo="https://i.imgur.com/SLCxTHi.png" group-title="KIDS NETWORKS",USA: MeTV Toons
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/951101.m3u8
+https://ice.lol/METV-TOONS-LAKAY
 
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="KIDS NETWORKS",Retro Crush
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
@@ -1454,7 +1445,7 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/71474.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 #EXTINF:-1 tvg-id="andtv.us" tvg-name="US - FILMRISE KIDS HD" tvg-logo="http://go4.pw/usa/Filmrise_Kids_HD.png" group-title="KIDS NETWORKS", FILMRISE KIDS 
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/494710.m3u8
+https://ice.lol/FILMRISE-KIDS-LAKAY
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZOOMOO HD" tvg-logo="https://i.imgur.com/pUBoxm5.png" group-title="KIDS NETWORKS",ZOOMOO HD
 https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
 
@@ -1463,10 +1454,10 @@ https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-logo="https://fumcaustin.org/wp-content/uploads/2020/02/kids-club-1920-1080-1280x720.jpg"
 
 #EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="IN: Nick+ FHD" tvg-logo="https://i.ibb.co/5LjbnZX/462558817-1147525850278473-8257900980366747608-n-removebg-preview.png" group-title="KIDS EXCLUSIVES", Nick+ HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/510219.m3u8
+https://ice.lol/NICK-LAKAYTV
 
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="HINDI - CARTOON NETWORK" tvg-logo="http://go4.pw/ASIA/INDIAN/CARTOONNETWORK.png" group-title="KIDS EXCLUSIVES"Cartoon Network HD+
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/175131.m3u8
+https://ice.lol/Cartoon-Network-LAKAY
 
 #EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="IN: Nick+ FHD" tvg-logo="https://i.ibb.co/89TNXNj/maxresdefault-removebg-preview.png" group-title="KIDS EXCLUSIVES", Nick Jr. by Pluto TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
@@ -1810,10 +1801,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=https://
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Movie Central",Star Movies HD
-http://23.227.140.75:3050/angela79416@gmail.com/NJzbg77qZ9/659476
+https://ice.lol/star-movies-lakay
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/CBRz0BK.png" group-title="Movie Central",Star Movies Select HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/34687.m3u8
+https://ice.lol/star-movies-select-lakay
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN TV FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png" group-title="Movie Central",RAKUTEN TV FAMILY
 https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
@@ -1843,7 +1834,7 @@ https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Movie Central",Sony Pix
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020173.m3u8
+https://ice.lol/SONY-PIX-LAKAY
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png" group-title="Movie Central",Sony Movies
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
@@ -1953,13 +1944,15 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN: &FLIX (4K)." tvg-logo="https://i.imgur.com/SMukHlr.png" group-title="Movie Central", &FLIX HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/808789.m3u8
+https://ice.lol/FLIX-LAKAY
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://i.imgur.com/QG3BDG1.png" group-title="Movie Central", &PRIVE HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/34717.m3u8
+https://ice.lol/PRIVE-LAKAY
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://i.imgur.com/E1q4Kia.png" group-title="Movie Central",MN+ HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/34699.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+https://ice.lol/MN-LAKAY
 
 #EXTINF:-1 tvg-id="251.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-title="Movie Central",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2173,32 +2166,25 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IN: DISCOVERY (4K)." tvg-logo="https://i.ibb.co/3ycBLXg/discovery-inc-removebg-preview.png" group-title="Animals, Nature & History", DISCOVERY HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1053614.m3u8
+https://ice.lol/discovery-ch-lakay
 
 #EXTINF:-1 tvg-id="" tvg-name="Carib (FLOW) Discovery Science (D)" tvg-logo="https://i.ibb.co/HGbRMkk/png-clipart-discovery-science-discovery-channel-investigation-discovery-logo-science-television-text.png" group-title="Animals, Nature & History", Discovery Science
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/906703.m3u8
+https://ice.lol/discovery-science-4k-lakay
 
 #EXTINF:-1 tvg-id="" tvg-name="Carib (FLOW) DISCOVERY TURBO (D)" tvg-logo="https://img3.wikia.nocookie.net/__cb20140810164321/logosfake/images/1/12/Discovery_Turbo_HD_2014.png" group-title="Animals, Nature & History", DISCOVERY TURBO 
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/1053616.m3u8
+https://ice.lol/discovery-turbo-4k-lakay
 
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: ANIMAL PLANET (4K)." tvg-logo="https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png" group-title="Animals, Nature & History", ANIMAL PLANET HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72168.m3u8
-
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IN: National GEO (4K)." tvg-logo="http://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="Animals, Nature & History",National Geographic HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72220.m3u8
-
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN: NAT Geo Wild (4K)." tvg-logo="http://go4.pw/ASIA/INDIA/Nat_Geo_Wild.png" group-title="Animals, Nature & History", NAT Geo Wild HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72219.m3u8
+https://ice.lol/animal-planet-4k-lakay
 
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN: Sony BBC EARTH (4K)." tvg-logo="https://i.ibb.co/8rWc2JK/sony-bbc-earth-possible-future-logo-by-red2222222222-dedcdbh-fullview-removebg-preview.png" group-title="Animals, Nature & History", Sony BBC EARTH HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/34690.m3u8
+https://ice.lol/sony-bbc-earth-4k-lakay
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wild Planet" tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="Animals, Nature & History",Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/sJmBCv2/47c6b578126225-Y3-Jvc-Cwx-MTgw-LDky-Mywz-Nj-Is-MTE2-removebg-preview.png" group-title="Animals, Nature & History",HISTORY TV18 HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72200.m3u8
+https://ice.lol/HISTORY-TV18-4K-LAKAY
 
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/tYVXTKn/1adventure-Earth-1-removebg-preview-1.png" group-title="Animals, Nature & History", Adventure Earth
 https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
