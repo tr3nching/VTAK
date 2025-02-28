@@ -18,7 +18,7 @@ def modify_tvgid_with_channel_name(line):
             # Print the modified full line for debugging
             print(f"Replaced line: {modified_line}")
             
-            return modified_line + " "  # Add newline only after replacement
+            return modified_line + "\n"  # Add newline only after replacement
         else:
             # If tvg-id already has a valid value (doesn't match conditions), return the line unchanged
             return line
@@ -41,8 +41,8 @@ for i, line in enumerate(lines[:20]):  # Limit to first 20 lines
 # Apply modification to all lines
 modified_lines = [modify_tvgid_with_channel_name(line) for line in lines]
 
-# Write the modified content to the output file (processed_JAPONESE.m3u)
-with open('processed_JAPONESE.m3u', 'w', encoding='utf-8') as outfile:
+# Write the modified content to the output file (trenching.m3u)
+with open('trenching.m3u', 'w', encoding='utf-8') as outfile:
     outfile.writelines(modified_lines)
 
-print("File processing complete. The modified content is saved in 'processed_JAPONESE.m3u'.")
+print("File processing complete. The modified content is saved in 'trenching.m3u'.")
