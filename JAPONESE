@@ -1472,7 +1472,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94
 https://linearjitp02-playback.astro.com.my:443/dash-wv/linear/5093/default_primary.mpd
 
 #EXTINF:-1 tvg-id="disneyinternationalhd.in" tvg-name="IN: DISNEY INTERNATIONAL (4K)" tvg-logo="https://i.imgur.com/WJOB5MA.png" group-title="KIDS EXCLUSIVES", Disney INTERNATIONAL HD
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/694181.m3u8
+https://ice.lol/disney-international-lakay
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: DISNEY XD" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1696933461-.png" group-title="KIDS EXCLUSIVES",FUN PLANET
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
