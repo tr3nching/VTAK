@@ -1399,7 +1399,7 @@ http://apkandweb.ddns.net/6377635294/6663568605/660
 #EXTINF:-1 tvg-id="Nick.Music.(NICM).us" tvg-name="Nick Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1280px-NickMusic.svg.png" group-title="KIDS NETWORKS",  Nick Music
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: BABY FIRST TV" tvg-logo="http://apkip.tv/logos/USA/BabyFirst.us.png" group-title="KIDS NETWORKS",USA: BABY FIRST TV
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/71459.m3u8
+https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: BABY TV" tvg-logo="http://apkip.tv/logos/USA/BabyTV.us.png" group-title="KIDS NETWORKS",USA: BABY TV
 http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/102465.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: BOOMERANG" tvg-logo="https://imgur.com/4b7CUYK.png" group-title="KIDS NETWORKS",USA: BOOMERANG
@@ -1438,7 +1438,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: TEEN NICK" tvg-logo="http://apkip.tv/logos/USA/TeenNick.us.png" group-title="KIDS NETWORKS",USA: TEEN NICK
 https://fl4.moveonjoy.com/Teen_Nick/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: UNIVERSAL KIDS" tvg-logo="http://apkip.tv/logos/USA/UniversalKids.us.png" group-title="KIDS NETWORKS",USA: UNIVERSAL KIDS
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/71474.m3u8
+https://ice.lol/UNIVERSAL-KIDS-WEST-LAKAY
 #EXTINF:-1 tvg-id="YTV.(East).(YTV).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png" tvg-name="Tv channel name" group-title="KIDS NETWORKS",YTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
