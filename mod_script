@@ -10,10 +10,10 @@ def modify_tvgid_with_channel_name(line):
         tvg_id_value = match.group(2).strip()  # The current tvg-id value
         tvg_name = match.group(5).strip()      # The channel name after the last comma
         
-        # Check if tvg-id is "", "(no tvg-id)", contains "astro", or contains "dummy"
+        # Check if tvg-id is "", "(no tvg-id)", contains "netflix", "samsung", "usb", "astro", or "dummy"
         if tvg_id_value == "" or tvg_id_value == "(no tvg-id)" or "netflix" in tvg_id_value.lower() or "samsung" in tvg_id_value.lower() or "usb" in tvg_id_value.lower() or "astro" in tvg_id_value.lower() or "dummy" in tvg_id_value.lower():
-            # Modify the tvg-id value to be the tvg_name
-            modified_line = match.group(1) + tvg_name + match.group(3) + match.group(4) + tvg_name
+            # Modify the tvg-id value to be the tvg_name and add a space after the comma before the tvg_name
+            modified_line = match.group(1) + tvg_name + match.group(3) + match.group(4)  + match.group(5)
             
             # Print the modified full line for debugging
             print(f"Replaced line: {modified_line}")
@@ -29,14 +29,6 @@ def modify_tvgid_with_channel_name(line):
 # Read the input file (JAPONESE)
 with open('JAPONESE', 'r', encoding='utf-8') as infile:
     lines = infile.readlines()
-
-# Process the first 20 lines and print replaced lines for debugging
-print("Processing first 20 lines:")
-
-# Process only the first 20 lines for debugging
-for i, line in enumerate(lines[:20]):  # Limit to first 20 lines
-    print(f"Line {i + 1}:")
-    modify_tvgid_with_channel_name(line)  # Print replaced line for the current line
 
 # Apply modification to all lines
 modified_lines = [modify_tvgid_with_channel_name(line) for line in lines]
