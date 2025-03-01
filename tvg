@@ -1,0 +1,34 @@
+import re
+
+# Function to extract tvg-id from the M3U file
+def extract_tvg_ids(m3u_file):
+    tvg_ids = set()  # Set to store unique tvg-ids
+    
+    # Regular expression to match tvg-id values
+    tvg_id_pattern = r'tvg-id="([^"]+)"'
+    
+    with open(m3u_file, 'r', encoding='utf-8') as file:
+        for line in file:
+            match = re.search(tvg_id_pattern, line)
+            if match:
+                tvg_ids.add(match.group(1))  # Add the found tvg-id to the set
+    
+    return tvg_ids
+
+# Function to save tvg-ids to a plain text file
+def save_tvg_ids_to_txt(tvg_ids, output_file):
+    with open(output_file, 'w', encoding='utf-8') as outfile:
+        for tvg_id in tvg_ids:
+            outfile.write(f"{tvg_id}\n")  # Write each tvg-id on a new line
+
+    print(f"List of tvg-ids has been saved to {output_file}")
+
+# Main script
+m3u_file = 'trenching.m3u'  # Path to the input M3U file
+output_file = 'trenching_tvg-id_list.m3u'  # Path to the output file
+
+# Extract tvg-ids from the M3U file
+tvg_ids = extract_tvg_ids(m3u_file)
+
+# Save the tvg-ids to a plain text file
+save_tvg_ids_to_txt(tvg_ids, output_file)

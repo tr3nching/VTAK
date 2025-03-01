@@ -35,7 +35,7 @@ def process_lines(lines):
         # Check if the line starts with #EXTM3U
         if line.startswith('#EXTM3U'):
             # Append the url-tvg="https://epg.pw/areas/ph/epg.xml" to the line
-            line = line.strip() + ' url-tvg="https://epg.pw/areas/ph/epg.xml"'
+            line = line.strip() + ' , https://epg.pw/areas/ph/epg.xml"'
         
         # Remove the specific bevy URL 'https://www.bevy.be/bevyfiles/philippinespremium2.xml'
         line = line.replace('https://www.bevy.be/bevyfiles/philippinespremium2.xml', '')
@@ -50,7 +50,7 @@ with open('JAPONESE', 'r', encoding='utf-8') as infile:
     lines = infile.readlines()
 
 # Process the lines
-modified_lines = process_lines(lines)
+#modified_lines = process_lines(lines)
 
 # Join the modified lines with a space and write them to the output file (processed_JAPONESE.m3u)
 with open('trenching.m3u', 'w', encoding='utf-8') as outfile:
