@@ -56,6 +56,15 @@ def disable_group_logo(line):
     else:
         return line
 
+# Function to find and append additional XML URLs to url-tvg="... lines
+def append_xml_urls_to_tvg(line):
+    # Match lines that contain url-tvg ending with .xml
+    if re.match(r'#EXTM3U.*?url-tvg=".*\.xml"', line):
+        # Append additional URLs to the existing url-tvg attribute
+        new_urls = 'https://www.open-epg.com/files/philippines2.xml, https://www.open-epg.com/files/philippines3.xml, https://www.open-epg.com/files/philippines1.xml'
+        line = re.sub(r'(url-tvg=".*\.xml")', r'\1, ' + new_urls + '"', line)
+    return line
+
 # Read the input file (JAPONESE)
 with open('JAPONESE', 'r', encoding='utf-8') as infile:
     lines = infile.readlines()
@@ -66,6 +75,7 @@ for line in lines:
     line = modify_tvgid_with_channel_name(line)  # Modify tvg-id
     line = replace_group_title(line)  # Modify group-title
     line = disable_group_logo(line)  # Disable group-logo lines
+    line = append_xml_urls_to_tvg(line)  # Append XML URLs to url-tvg
     modified_lines.append(line)
 
 # Write the modified content to the output file (trenching.m3u)
