@@ -21,22 +21,22 @@ def modify_tvgid_with_channel_name(line):
 # Function to replace group-title based on specific mappings
 def replace_group_title(line):
     group_title_mappings = {
-        "Local": "Entertainment",
-        "Animal, Nature & History": "Documentary",
-        "CARTOONS AND ANIMATIONS": "Kids",
-        "KIDS EXCLUSIVES": "Kids",
-        "KIDS NETWORK": "Kids",
-        "Movie Central": "Movies",
-        "HBOGO Asia": "VOD",
-        "🎬 VIVAONE MOVIES MIX": "VOD",
-        " 🎬 TFC MOVIES ": "VOD Tagalog",
-        "🎬 VIVAONE MOVIES TAGALOG": "VOD Tagalog",
-        "📀 MAALA-ALA MO KAYA": "VOD Tagalog",
-        "PREMIUM SPORT": "Sports",
-        "🇵🇭 PILIPINAS LIVE": "Sports",
-        "PREMIUM MUSIC": "Music Videos",
-        "RELAXATION AREA": "Scenes",
-        "PH RADIO CHANNELS": "Radio"
+        "Local": "Entertainment1",
+        "Animals, Nature & History": "Documentary1",
+        "CARTOONS AND ANIMATIONS": "Kids1",
+        "KIDS EXCLUSIVES": "Kids1",
+        "KIDS NETWORKS": "Kids1",
+        "Movie Central": "Movies1",
+        "HBOGO Asia": "VOD1",
+        "🎬 VIVAONE MOVIES MIX": "VOD1",
+        " 🎬 TFC MOVIES ": "VOD Tagalog1",
+        "🎬 VIVAONE MOVIES TAGALOG": "VOD Tagalog1",
+        "📀 MAALA-ALA MO KAYA": "VOD Tagalog1",
+        "PREMIUM SPORTS": "Sports1",
+        "🇵🇭 PILIPINAS LIVE": "Sports1",
+        "PREMIUM MUSIC": "Music Videos1",
+        "RELAXIATION AREA": "Scenes1",
+        "PH RADIO CHANNELS": "Radio1"
     }
     
     # Match the group-title and replace with mapped value
