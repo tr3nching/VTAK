@@ -1,0 +1,103 @@
+import re
+import requests
+
+# Function to extract URLs from lines starting with #EXTM3U that contain url-tvg=
+def extract_urls_from_m3u(m3u_file):
+    urls_dict = {}  # Dictionary to store lines and their respective URLs
+    url_pattern = r'url-tvg="([^"]+)"'  # Regular expression to match url-tvg= URLs
+
+    # Read the M3U file and extract URLs from lines starting with #EXTM3U
+    with open(m3u_file, 'r', encoding='utf-8') as file:
+        for line in file:
+            if line.startswith("#EXTM3U"):  # Only process lines starting with #EXTM3U
+                match = re.search(url_pattern, line)
+                if match:  # Split the comma-separated URLs and store them in a dictionary
+                    urls_dict[line] = match.group(1).split(',')  # The line and the list of URLs
+    return urls_dict
+
+# Function to test if a URL is reachable and has content > 1MB
+def test_url(url):
+    try:
+        response = requests.get(url, timeout=5)  # Send GET request with a 5-second timeout
+        # Check if the URL is reachable and content is greater than 1MB (1048576 bytes)
+        content_length = int(response.headers.get('Content-Length', 0))  # Get content length from headers
+        if content_length > 1048576 or len(response.content) > 1048576:
+            return True
+        else:
+            return False
+    except requests.exceptions.RequestException:
+        return False
+
+# Function to modify tvg-id when tvg-id is "", "(no tvg-id)", contains "astro", contains "dummy", or missing
+def modify_tvgid_with_channel_name(line):
+    # Match lines starting with #EXTINF: and extract tvg-id value and the channel name after the last comma
+    match = re.match(r'(#EXTINF:.*?tvg-id=")(.*?)(".*?)(,.*?)([^,]+)$', line)
+    
+    # If the line matches the expected pattern, check tvg-id and modify it if needed
+    if match:
+        tvg_id_value = match.group(2).strip()  # The current tvg-id value
+        tvg_name = match.group(5).strip()      # The channel name after the last comma
+        
+        # Check if tvg-id is "", "(no tvg-id)", contains "netflix", "samsung", "usb", "astro", or "dummy"
+        if tvg_id_value == "" or tvg_id_value == "(no tvg-id)" or "netflix" in tvg_id_value.lower() or "samsung" in tvg_id_value.lower() or "usb" in tvg_id_value.lower() or "astro" in tvg_id_value.lower() or "dummy" in tvg_id_value.lower() or "dimmy" in tvg_id_value.lower():
+            # Modify the tvg-id value to be the tvg_name and add a space after the comma before the tvg_name
+            modified_line = match.group(1) + tvg_name + match.group(3) + match.group(4)  + match.group(5)
+            
+            # Print the modified full line for debugging
+            print(f"Replaced line: {modified_line}")
+            
+            return modified_line #+ "\n"  # Add newline only after replacement
+        else:
+            # If tvg-id already has a valid value (doesn't match conditions), return the line unchanged
+            return line
+    else:
+        # If the line doesn't match the expected pattern, return it unchanged
+        return line
+
+# Function to process URLs and save successful ones to a single url-tvg attribute
+def process_and_save_urls(m3u_file, output_file):
+    urls_dict = extract_urls_from_m3u(m3u_file)  # Extract URLs from the M3U file
+    if not urls_dict:
+        print("No URLs found in the M3U file.")
+        return
+    
+    successful_urls = []  # List to store successful URLs
+    
+    # Add the fixed URL (epg.pw) as the first URL in the list
+    successful_urls.append('https://epg.pw/xmltv/epg_PH.xml')
+    
+    # Process each line and its URLs
+    for line, url_list in urls_dict.items():
+        for url in url_list:
+            url = url.strip()  # Remove unnecessary spaces
+            if test_url(url):  # Check if URL is reachable and has content > 1MB
+                successful_urls.append(url)
+
+    # If we have successful URLs, create the #EXTM3U tag with all URLs in one url-tvg attribute
+    if successful_urls:
+        successful_urls_str = ', '.join(successful_urls)  # Join all URLs into a single string
+        successful_lines = [f'#EXTM3U url-tvg="{successful_urls_str}"\n']
+    else:
+        successful_lines = ['#EXTM3U\n']  # If no URLs are valid, just add an empty #EXTM3U tag
+
+    # Process the actual streams and modify tvg-id if necessary
+    with open(m3u_file, 'r', encoding='utf-8') as file:
+        for line in file:
+            if line.startswith("#EXTINF:"):  # Process lines starting with #EXTINF
+                modified_line = modify_tvgid_with_channel_name(line)
+                successful_lines.append(modified_line)
+            elif not line.startswith("#EXTM3U"):  # Only include the actual media stream URLs (ignoring #EXTM3U)
+                successful_lines.append(line)
+
+    # Write the successful lines to a new M3U file
+    with open(output_file, 'w', encoding='utf-8') as outfile:
+        outfile.writelines(successful_lines)
+    
+    print(f"Processed M3U file saved as '{output_file}'.")
+
+# Main script
+m3u_file = 'JAPONESE'  # Path to the input M3U file (ensure this file exists)
+output_file = 'url_list.m3u'  # Path to the output M3U file
+
+# Process and save URLs from the JAPONESE M3U file to the output file
+process_and_save_urls(m3u_file, output_file)
