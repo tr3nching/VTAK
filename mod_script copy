@@ -37,6 +37,7 @@ def replace_group_title(line):
         "PREMIUM MUSIC": "Music Videos",
         "RELAXIATION AREA": "Scenes",
         "PH RADIO CHANNELS": "Radio Stations",
+        "RESERVED CHANNELS": "Radio Stations",
     }
     
     # Match the group-title and replace with mapped value

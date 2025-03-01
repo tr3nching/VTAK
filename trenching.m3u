@@ -230,7 +230,7 @@ https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/ind
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Heart of Asia" tvg-name="Heart of Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Heart_of_Asia_3D_Logo.png/revision/latest/scale-to-width-down/250?cb=20200713050134" group-title="RESERVED CHANNELS",Heart of Asia
+#EXTINF:-1 tvg-id="Heart of Asia" tvg-name="Heart of Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Heart_of_Asia_3D_Logo.png/revision/latest/scale-to-width-down/250?cb=20200713050134" group-title="Radio Stations",Heart of Asia
 
  #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I Heart Movies" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/40/I_Heart_Movies_3D_Logo_2021.png/revision/latest?cb=20220913064316" group-title="Entertainment",I Heart Movies 
 https://fl1004.bozztv.com/ssh101/1012345/index.m3u8
@@ -861,7 +861,7 @@ https://exempli.feitantv.workers.dev/@HILAKBOTHorrorStories.m3u8
 ` #EXTINF:-1 group-logo="https://st.depositphotos.com/2274151/3306/i/600/depositphotos_33060717-stock-photo-reserved-red-grunge-stamp.jpg"
 
 
-#EXTINF:-1 tvg-id="Pinoy Hits" tvg-name="Pinoy Xtreme" tvg-logo="https://imgur.com/NXb4qmF.png" group-title="RESERVED CHANNELS",Pinoy Hits
+#EXTINF:-1 tvg-id="Pinoy Hits" tvg-name="Pinoy Xtreme" tvg-logo="https://imgur.com/NXb4qmF.png" group-title="Radio Stations",Pinoy Hits
 http://admin.ganbaruby23.xyz/stream/new/pinoyhits/master.m3u8?u=4568185514&p=729c795a2e7aa95f684d5c17e6681649b872158019ffce987a14f1b2c51cfef6
 
 
