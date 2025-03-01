@@ -31,7 +31,7 @@ def test_url(url):
 # Function to modify tvg-id when tvg-id is "", "(no tvg-id)", contains "astro", contains "dummy", or missing
 def modify_tvgid_with_channel_name(line):
     # Match lines starting with #EXTINF: and extract tvg-id value and the channel name after the last comma
-    match = re.match(r'(#EXTINF:.*?tvg-id=")(.*?)(".*?)(,.*?)([^,]+)$', line)
+    match = re.match(r'(#EXTINF:.*?tvg-id=")(.*?)(".*?)(",.*?)([^,]+)$', line)
     
     # If the line matches the expected pattern, check tvg-id and modify it if needed
     if match:
@@ -41,15 +41,15 @@ def modify_tvgid_with_channel_name(line):
         # Check if tvg-id is "", "(no tvg-id)", contains "netflix", "samsung", "usb", "astro", or "dummy"
         if tvg_id_value == "" or tvg_id_value == "(no tvg-id)" or "netflix" in tvg_id_value.lower() or "samsung" in tvg_id_value.lower() or "usb" in tvg_id_value.lower() or "astro" in tvg_id_value.lower() or "dummy" in tvg_id_value.lower() or "dimmy" in tvg_id_value.lower():
             # Modify the tvg-id value to be the tvg_name and add a space after the comma before the tvg_name
-            modified_line = match.group(1) + tvg_name + match.group(3) + match.group(4)  + match.group(5)
+            modified_line = match.group(1) + tvg_name + match.group(3) + match.group(4)  + tvg_name
             
             # Print the modified full line for debugging
             print(f"Replaced line: {modified_line}")
             
-            return modified_line #+ "\n"  # Add newline only after replacement
+            return modified_line + "\n"  # Add newline only after replacement
         else:
             # If tvg-id already has a valid value (doesn't match conditions), return the line unchanged
-            return line
+            return match.group(1) + match.group(2) + match.group(3) + match.group(4)  + tvg_name + "\n"
     else:
         # If the line doesn't match the expected pattern, return it unchanged
         return line
@@ -97,7 +97,9 @@ def process_and_save_urls(m3u_file, output_file):
 
 # Main script
 m3u_file = 'JAPONESE'  # Path to the input M3U file (ensure this file exists)
-output_file = 'url_list.m3u'  # Path to the output M3U file
+output_file1 = 'url_list.m3u'  # Path to the output M3U file
+output_file2 = 'trenching.m3u'  # Path to the output M3U file
 
 # Process and save URLs from the JAPONESE M3U file to the output file
-process_and_save_urls(m3u_file, output_file)
+process_and_save_urls(m3u_file, output_file1)
+process_and_save_urls(m3u_file, output_file2)
