@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-id="iwantmov45" tvg-name="Exes Baggage" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pHVNxtOl9mAjP9IThxz6nzqfUJe.jpg" group-title=" 🎬 TFC MOVIES ",Exes Baggage3
+https://absvod.akamaized.net/c/2/m/62c04b20-7dd4-11eb-b0f6-af3e408284f3.ism/manifest.mpd
+
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive 
