@@ -1,5 +1,19 @@
-
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=77a4d7918c6b16f8e6249678eed58210:196b3a79eb360720630ea02c27a0ae32
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAOGY_IVP_LAND_171x96_50139_2024321_171856.jpg" group-title="Tagalog" group-logo="https://pictr.com/images/2025/02/21/xLAzcO.png" tvg-id="NULL" media=true, Exes Baggage
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|77a4d7918c6b16f8e6249678eed58210:196b3a79eb360720630ea02c27a0ae32
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAOGY_IVP_LAND_171x96_50139_2024321_171856.jpg" group-title="Tagalog" group-logo="https://pictr.com/images/2025/02/21/xLAzcO.png", Exes Baggage
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/236cbfdb-2161-5138-afd5-a5758c20d11c/default_primary.mpd
+
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d1680c637c08abd315724b271788f910:1ccc2b20b66853372ee61bb2f92d8d85
+#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPJIS_IVP_LAND_432x243_7E434_20241021_92011.jpg" group-title="Korean" group-logo="https://pictr.com/images/2025/02/21/xLAazQ.png", EXHUMA 
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/bae433c9-a00f-55ae-bf95-41d095814626/default_primary.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62c04b207dd411ebb0f6af3e408284f3:0435427c970a86237728a47d2fb082b3
+#EXTINF:-1 tvg-id="iwantmov45" tvg-name="Exes Baggage" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pHVNxtOl9mAjP9IThxz6nzqfUJe.jpg" group-title=" 🎬 TFC MOVIES ",Exes Baggage2
+https://absvod.akamaized.net/c/2/m/62c04b20-7dd4-11eb-b0f6-af3e408284f3.ism/manifest.mpd
