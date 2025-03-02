@@ -327,9 +327,12 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 
 
 #EXTINF:-1 tvg-id="615.astro" tvg-logo="https://imgur.com/l7p2MpK.png" group-title="Local", Cartoon Network HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001178/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
+
 
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/5gMIjA2.png" group-title="Local",Aniplus
