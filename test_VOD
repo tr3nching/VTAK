@@ -1,5 +1,5 @@
 
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|77a4d7918c6b16f8e6249678eed58210:196b3a79eb360720630ea02c27a0ae32
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=77a4d7918c6b16f8e6249678eed58210:196b3a79eb360720630ea02c27a0ae32
 #EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAOGY_IVP_LAND_171x96_50139_2024321_171856.jpg" group-title="Tagalog" group-logo="https://pictr.com/images/2025/02/21/xLAzcO.png" tvg-id="NULL" media=true, Exes Baggage
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/236cbfdb-2161-5138-afd5-a5758c20d11c/default_primary.mpd
