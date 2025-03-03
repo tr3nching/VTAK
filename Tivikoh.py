@@ -83,4 +83,4 @@ for line in lines:
 with open('Tivikoh2.m3u', 'w', encoding='utf-8') as outfile:
     outfile.writelines(modified_lines)
 
-print("File processing complete. The modified content is saved in 'trenching.m3u'.")
+print("File processing complete. The modified content is saved in 'Tivikoh2.m3u'.")
