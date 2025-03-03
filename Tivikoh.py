@@ -11,7 +11,7 @@ def modify_tvgid_with_channel_name(line):
         # Check if tvg-id is "", "(no tvg-id)", contains "netflix", "samsung", "usb", "astro", or "dummy"
         if tvg_id_value == "" or tvg_id_value == "(no tvg-id)" or "netflix" in tvg_id_value.lower() or "samsung" in tvg_id_value.lower() or "usb" in tvg_id_value.lower() or "astro" in tvg_id_value.lower() or "dummy" in tvg_id_value.lower() or "dimmy" in tvg_id_value.lower():
             # Modify the tvg-id value to be the tvg_name and add a space after the comma before the tvg_name
-            modified_line = match.group(1) + tvg_name + match.group(3) + match.group(4) + tvg_name
+            modified_line = match.group(1) + tvg_name + ".ph" + match.group(3) + match.group(4) + tvg_name
             return modified_line + "\n"
         else:
             return match.group(1) + match.group(2) + match.group(3) + match.group(4) + tvg_name + "\n"
