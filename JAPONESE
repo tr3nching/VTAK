@@ -2078,13 +2078,13 @@ http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.
 #EXTINF:-1 tvg-id="cinemachi5" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.imgur.com/zzixR9p.png" group-title="Movie Central",CINEMACHI KIDS
 http://202.147.193.244/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
-#EXTINF:-1 tvg-id="cinemachi5" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.ibb.co/gMWYp4cK/OIP-15-removebg-preview.png" group-title="Movie Central",WOWOW Cinema
+#EXTINF:-1 tvg-id="cinemachi5" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.ibb.co/WNQ7dqZ5/OIP-15-removebg-preview.png" group-title="Movie Central",WOWOW Cinema
 https://luong.utako.moe/wcinema/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemachi5" tvg-name="CINEMACHI KIDS" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/88/WOWOW_Prime.png/revision/latest?cb=20170708073145" group-title="Movie Central",WOWOW Prime
 https://luong.utako.moe/wprime/index.m3u8
 
-#EXTINF:-1 tvg-id="cinemachi5" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.ibb.co/mCSGCPvX/wowow-live.jpg" group-title="Movie Central",WOWOW Live
+#EXTINF:-1 tvg-id="cinemachi5" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.ibb.co/tMdSr4YY/Wowow-live.jpg" group-title="Movie Central",WOWOW Live
 https://luong.utako.moe/wlive/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="Movie Central",Douyu Movies 01
