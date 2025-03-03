@@ -232,8 +232,8 @@ http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDoma
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Heart of Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Heart_of_Asia_3D_Logo.png/revision/latest/scale-to-width-down/250?cb=20200713050134" group-title="RESERVED CHANNELS",Heart of Asia 
 
- #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I Heart Movies" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/40/I_Heart_Movies_3D_Logo_2021.png/revision/latest?cb=20220913064316" group-title="Local",I Heart Movies 
-https://fl1004.bozztv.com/ssh101/1012345/index.m3u8
+ #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/GQrbgTxF/1740974083797-removebg-preview.png" group-title="Local",GanbaTV
+https://tv.jomarhost.xyz/memfs/7a68dbe7-c91b-49b5-bd2f-1b0d16dd187c.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Local", TMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2078,6 +2078,15 @@ http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.
 #EXTINF:-1 tvg-id="cinemachi5" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.imgur.com/zzixR9p.png" group-title="Movie Central",CINEMACHI KIDS
 http://202.147.193.244/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
+#EXTINF:-1 tvg-id="cinemachi5" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.ibb.co/gMWYp4cK/OIP-15-removebg-preview.png" group-title="Movie Central",WOWOW Cinema
+https://luong.utako.moe/wcinema/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemachi5" tvg-name="CINEMACHI KIDS" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/88/WOWOW_Prime.png/revision/latest?cb=20170708073145" group-title="Movie Central",WOWOW Prime
+https://luong.utako.moe/wprime/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemachi5" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.ibb.co/mCSGCPvX/wowow-live.jpg" group-title="Movie Central",WOWOW Live
+https://luong.utako.moe/wlive/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="Movie Central",Douyu Movies 01
 http://epg.112114.xyz/douyu/276200
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="Movie Central",Douyu Movies 02
@@ -2131,6 +2140,7 @@ http://supersonictv.live:8080/live/144264/661943/77470.ts
 
 #EXTINF:-1 tvg-id="skythriller.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png" group-title="Movie Central",Sky Thriller
 http://supersonictv.live:8080/live/144264/661943/77471.ts
+
 
 
 
