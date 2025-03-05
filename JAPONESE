@@ -1873,8 +1873,7 @@ https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?h
 https://aka-live1-ott.izzigo.tv/3/out/u/dash/SONY-HD/default.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Movie Central",Sony Pix
-http://103.115.126.26:8000/play/a05q/index.m3u8
-
+http://31.43.191.155:8080/live/VIP0118171178987462/cf22e1647a21/7317.ts?token=TxBbUEFZGgNDXQhUAwQCWw8HUgRUVwEJAlRWBwMKXVVXAFJTBwlbWwIbFRREQRFcVwtsWFNECwNVAVABGRoQElFAbFhWEwIbUwgNDw8CQRUUElpcUkQLAVYFVgIBAFVQBh4RQVtVGgNDCg0BBQRBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDBUHUwEERB8TVAlEXhVFHRQPGiw1Fh4RVEpFXVcSUFZYFQ9BTUVEHxNeFW5CBEQQRFBZCARGEAkTAhMUGwxYQWlUWg1XUwVHWFgIQhJbFVUUGRoIDlpbR15AbkhQBRsDFAQBVQoPRE4=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png" group-title="Movie Central",Sony Movies
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
