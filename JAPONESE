@@ -1845,7 +1845,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=https://
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Movie Central",Star Movies HD
-http://103.115.126.26:8000/play/a05s/index.m3u8
+https://amit-1.allinonereborn.in/jiobe199.m3u8?id=1487
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/CBRz0BK.png" group-title="Movie Central",Star Movies Select HD
 http://103.115.126.26:8000/play/a080/index.m3u8
