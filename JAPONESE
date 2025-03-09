@@ -1528,7 +1528,7 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4401&q=SD&a
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qmFz6HlcmwsnM9+DiTSBfw", "kid":"EtmlTkWNMZdWMr4XqNrAEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="100.astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Astro_Home_of_Kids.png/revision/latest?cb=20241201142610" group-title="KIDS EXCLUSIVES",Home Of Kids     
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5178/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5178/default_ott.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anime All Day" tvg-logo="https://i.ibb.co/Y78QGb2/USAJ3504502-A-20240520-T214506-SQUARE-removebg-preview.png" group-title="KIDS EXCLUSIVES",Anime All Day
 https://jmp2.uk/sam-USAJ3504502A.m3u8
