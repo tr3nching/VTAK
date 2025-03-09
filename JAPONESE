@@ -239,7 +239,7 @@ https://tv.jomarhost.xyz/memfs/7a68dbe7-c91b-49b5-bd2f-1b0d16dd187c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/sC3yTot.png" group-title="Local",Hallypop!
 https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/...nc_avif,quality_auto/JungoPinoy_BrandLogo.png" group-title="Local",Jungo TV Pinoy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/3f6f0d_ab7b0ed79ba7476cb9522381586d4d0f~mv2.png/v1/fill/w_529,h_270,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/JungoPinoy_BrandLogo.png" group-title="Local",Jungo TV Pinoy
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cablelink.com.ph/assets/img/advisory/scream_bg1.jpg" group-title="Local",Screamflix
