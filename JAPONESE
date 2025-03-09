@@ -2583,6 +2583,29 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PREMIUM SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg",816 Dazn 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://get.perfecttv.net/dash.mpd?username=perfecttv&password=perfecttv&channel=dazn1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PREMIUM SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",816 Dazn 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://get.perfecttv.net/dash.mpd?username=perfecttv&password=perfecttv&channel=dazn2
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PREMIUM SPORTS" tvg-logo="https://www.freeshot.live/upload/source/DAZNLaLigalogo.png",816 Dazn Laliga
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://get.perfecttv.net/dash.mpd?username=perfecttv&password=perfecttv&channel=daznlaliga
+
+
 #EXTINF:-1 tvg-id = "Eurosport" group-title="PREMIUM SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png", Eurosport HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
