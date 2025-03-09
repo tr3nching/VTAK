@@ -235,6 +235,25 @@ http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/GQrbgTxF/1740974083797-removebg-preview.png" group-title="Local",GanbaTV
 https://tv.jomarhost.xyz/memfs/7a68dbe7-c91b-49b5-bd2f-1b0d16dd187c.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Hallypop-GMA-Logo-alpha.jpg" group-title="Local",Hallypop!
+https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/...nc_avif,quality_auto/JungoPinoy_BrandLogo.png" group-title="Local",Jungo TV Pinoy
+https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cablelink.com.ph/assets/img/advisory/scream_bg1.jpg" group-title="Local",Screamflix
+https://jungotvstream.chanall.tv/jungotv/screamflix/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Front-row-channel_logo.png" group-title="Local",Front Row Channel
+https://jungotvstream-chanall.akamaized.net/jungotv/frontrow/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/CGe0mBh.png" group-title="Local",Combat GO
+https://jungotvstream.chanall.tv/jungotv/combatgo/stream.m3u8
+
+#EXTINF:-1 tvg-id="" ch-number="" group-title="Local" tvg-logo="https://static.wixstatic.com/media/...Horizontal_Fullcolor_Variation_White-Pink.png",AWSN
+https://amg02188-amg02188c2-jungotv-northamerica-5717.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://rageteebee.vercel.app/logo.png" group-title="Local",Rage TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/ragetv/playlist.m3u8
 
