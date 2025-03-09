@@ -1862,10 +1862,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=https://
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Movie Central",Star Movies HD
-https://amit-1.allinonereborn.in/jiobe199.m3u8?id=1487
+http://119.152.240.15:8001/play/a0i0/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/CBRz0BK.png" group-title="Movie Central",Star Movies Select HD
-http://103.115.126.26:8000/play/a080/index.m3u8
+http://119.152.240.15:8001/play/a0i1/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN TV FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png" group-title="Movie Central",RAKUTEN TV FAMILY
 https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
@@ -2140,10 +2141,10 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN: &FLIX (4K)." tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="Movie Central", &FLIX HD
-http://103.115.126.26:8000/play/a07i/index.m3u8
+http://familyip.vip/IN_FLIX/mpegts
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572eec7fe0772265fedb969/images/626.webp" group-title="Movie Central", &PRIVE HD
-http://103.115.126.26:8000/play/a056/index.m3u8
+http://119.152.240.15:8001/play/a0je/index.m3u8
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://i.imgur.com/E1q4Kia.png" group-title="Movie Central",MN+ HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
