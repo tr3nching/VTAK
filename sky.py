@@ -62,10 +62,3 @@ create_m3u_file("http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/", 11
 create_m3u_file("http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/", 31, output_file, 791635, False, group_name="Sky Premier", prefix="Sky Premier")
 
 
-create_m3u_file("http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/", 1, output_file, 791710, False, group_name="Sky Premier", prefix="Sky Premier")
-create_m3u_file("http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/", 1, output_file, 791720, False, group_name="Sky Premier", prefix="Sky Premier")
-create_m3u_file("http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/", 1, output_file, 791730, False, group_name="Sky Premier", prefix="Sky Premier")
-create_m3u_file("http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/", 1, output_file, 791740, False, group_name="Sky Premier", prefix="Sky Premier")
-create_m3u_file("http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/", 1, output_file, 791750, False, group_name="Sky Premier", prefix="Sky Premier")
-create_m3u_file("http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/", 1, output_file, 791760, False, group_name="Sky Premier", prefix="Sky Premier")
-create_m3u_file("http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/", 1, output_file, 791770, False, group_name="Sky Premier", prefix="Sky Premier")
